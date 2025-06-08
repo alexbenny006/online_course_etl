@@ -1,11 +1,13 @@
 # etl.py
 
 import csv
-from db import get_connection
+from db import get_connection, create_tables
 
 def run_etl(file_path: str):
     conn = get_connection()
     cur = conn.cursor()
+
+    create_tables()
 
     with open(file_path, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
