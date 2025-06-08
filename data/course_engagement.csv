@@ -1,0 +1,1001 @@
+id,user_id,course_name,category,minutes_watched,quiz_score,date
+1,2db5d907-f7c2-4871-966d-2557ec5ed0dc,Cloud Computing,Cloud,43,79.71,08-03-2024
+2,72f2e63b-0f3a-4df1-88eb-6de2d1577a06,AI Fundamentals,AI,37,68.58,15-03-2024
+3,5aa869f0-856d-4247-9f8a-a09787d6b2cf,Web Development,Web,150,52.12,01-03-2024
+4,edae64a8-d206-4e19-9c59-416d7c8a5483,Cloud Computing,Cloud,110,68.29,03-01-2024
+5,59aa8147-780b-416e-93ad-07227c7dacdb,Data Science 101,Data Science,175,97.53,28-02-2024
+6,7aafd46a-64ef-4fe8-a2ac-7050089f788f,Python Basics,Programming,30,72.96,11-01-2024
+7,ddab178c-7886-4cae-8b2c-02db0889a4c5,Web Development,Web,66,82.96,04-01-2024
+8,1f6b08db-fedc-4fe6-ad2d-a77032f57006,Python Basics,Programming,110,61.28,05-05-2024
+9,66e98c11-4bb3-4f08-bb28-346d367e1a1c,Data Science 101,Data Science,109,73.02,19-06-2024
+10,9c2105ff-b471-436b-ae3f-66ed35b39209,Web Development,Web,41,65.44,10-04-2024
+11,6d853513-49c1-432b-9d07-f8706cc74ed1,Python Basics,Programming,58,86.32,01-02-2024
+12,1b1c9447-22ac-4175-a29e-74c63daf5a91,Cloud Computing,Cloud,62,64.88,12-03-2024
+13,4ce5fb57-a1b4-42e2-9b3f-a6f642e769eb,Web Development,Web,132,71.4,07-05-2024
+14,36fe87d8-e564-49d6-95f0-a776ef3ac29f,Web Development,Web,133,84.32,18-02-2024
+15,03cb8d91-df23-4fee-bfc3-4c99c08d064d,Python Basics,Programming,144,79.35,01-06-2024
+16,1eecc0d5-eecd-4889-bd5e-a52ab84ee752,Data Science 101,Data Science,87,94.49,25-01-2024
+17,930eef2d-9791-42a9-85ed-ead9922b28fa,Cloud Computing,Cloud,46,72.02,31-03-2024
+18,28894943-314c-4185-ac23-2309b50b7de4,Web Development,Web,59,78.17,28-05-2024
+19,ff556638-d0a8-4b58-9661-a01ca8022270,Python Basics,Programming,31,83.5,29-01-2024
+20,61de696a-1d68-493a-b953-e69332d9e269,Cloud Computing,Cloud,179,62.34,02-05-2024
+21,5704af69-feba-4aaf-8f87-7b510bc69689,Web Development,Web,123,86.67,21-04-2024
+22,5db5b5a7-9a1b-4225-a83c-bed9c3e4624d,Python Basics,Programming,134,67.85,06-02-2024
+23,5a3d5cbc-fdc6-432d-9291-b90f6dd944dc,Web Development,Web,143,83.46,15-03-2024
+24,9b5532aa-39a4-4d20-9fc9-0483e299831d,Data Science 101,Data Science,101,74.6,03-02-2024
+25,0c6ccc5f-fc21-4708-9a92-d2a44e8c2b10,AI Fundamentals,AI,12,85.71,28-05-2024
+26,079c6452-6c69-4d53-ab5b-566742db184a,Data Science 101,Data Science,15,72.23,11-02-2024
+27,ddf11e81-172f-4d73-a94e-fe99857c69e5,Web Development,Web,150,63.48,26-02-2024
+28,d5dcd70a-8877-4dab-96ef-c9d7e14ccd70,Web Development,Web,130,61.13,23-03-2024
+29,1ba456a8-1a26-4092-b115-4383ef284cd1,Cloud Computing,Cloud,49,64.82,10-05-2024
+30,54869bfd-aa4a-4b0c-9fd1-9fd6a04ea340,Python Basics,Programming,9,67.39,11-04-2024
+31,f430fe6b-4d20-45e2-ba20-b2b9e6f528b0,Cloud Computing,Cloud,118,62.89,11-04-2024
+32,a4350622-591b-492d-b43d-b40bd5040f8b,Web Development,Web,22,75.78,07-03-2024
+33,e1127d59-5a8f-4cab-b1bf-2ee389d0e3b6,AI Fundamentals,AI,18,66.92,24-04-2024
+34,413abf6a-477d-4100-abdf-844718193ea8,Data Science 101,Data Science,90,53.01,26-02-2024
+35,71d940a5-505c-460a-a578-d58b80179f0e,Data Science 101,Data Science,129,82.37,07-03-2024
+36,9964ed13-c433-4f75-b609-eb28aff686de,Web Development,Web,153,59.07,01-03-2024
+37,f9a35d8d-9dd3-4104-8608-7d3b8d3f0e8e,Web Development,Web,51,57.08,26-01-2024
+38,2f267a22-eb20-42de-a45a-d75d69cf0a0c,Data Science 101,Data Science,15,66.47,06-02-2024
+39,1e8a3589-298e-4696-bb1d-0ea9d6156afa,Data Science 101,Data Science,144,62.64,15-03-2024
+40,89f85974-bf93-4962-9a9f-28b2f528f8ab,Python Basics,Programming,91,68.77,14-04-2024
+41,0f72edbf-7d9f-4a0c-a2ea-a7b99065e804,AI Fundamentals,AI,43,93.5,04-02-2024
+42,405ad82b-2957-4730-87bb-eeefcb4e7e0b,AI Fundamentals,AI,144,50.77,25-01-2024
+43,5d08f294-0d0c-4eec-b422-b495f90b7cdf,Web Development,Web,135,95.26,13-04-2024
+44,141c2326-ebe6-4033-8713-e629d6537db6,AI Fundamentals,AI,52,98.64,20-06-2024
+45,63563a2b-4027-4f01-b46e-aaa422663e23,Data Science 101,Data Science,89,99.95,31-03-2024
+46,be2b5df4-b8cf-4e38-a46d-f6844d7da5db,AI Fundamentals,AI,70,70.9,13-05-2024
+47,eea1a010-d358-4cc1-bc34-ee6aa24864b4,Data Science 101,Data Science,11,58.17,18-02-2024
+48,f0f955dd-b407-4c7e-9ce8-d3ceba48be99,AI Fundamentals,AI,44,73.97,31-01-2024
+49,31ddbbc4-4075-4e7a-a8ec-900927101d06,Python Basics,Programming,87,82.18,20-03-2024
+50,8cb7872c-e022-41ae-9311-3ac435531920,Cloud Computing,Cloud,154,94.05,27-05-2024
+51,36cf9f66-291d-443f-898a-1c3994fd5f43,AI Fundamentals,AI,149,64.27,13-01-2024
+52,4d5fe6a3-3c5e-4c62-b8b2-c319971dc4a7,AI Fundamentals,AI,157,54.97,12-04-2024
+53,09207f00-16b0-47ed-b2e9-dd79abe11325,Cloud Computing,Cloud,116,74.43,26-04-2024
+54,b2c18d6b-20eb-4cea-82b0-91d1df1313e9,Data Science 101,Data Science,5,65.93,28-03-2024
+55,d3205e6f-1253-4dee-80bb-2405b68097b3,Python Basics,Programming,103,96.38,03-02-2024
+56,afa01ea5-52c8-4bbb-8412-40105e7b7055,Web Development,Web,111,82.06,08-04-2024
+57,fc850ca3-8923-4f2d-9819-ae79e23f9907,Web Development,Web,156,53.82,09-05-2024
+58,a132c516-b6a8-48d2-a70f-b0dcf6ec8d0f,Web Development,Web,174,76.18,11-06-2024
+59,c10aa6e2-dfe3-444a-b414-321c4f54a739,Data Science 101,Data Science,138,53.37,09-04-2024
+60,a092e222-64db-47bd-903e-348f67820aa2,AI Fundamentals,AI,167,54.18,04-02-2024
+61,528c2fb7-e0b5-4632-beca-dd0744a639d1,Python Basics,Programming,115,96.4,25-05-2024
+62,51fb998e-ed86-4dfc-b4c9-268ab6b25466,AI Fundamentals,AI,99,79.92,21-05-2024
+63,6ee39313-36dd-4bb4-aee9-f7f85a896102,Cloud Computing,Cloud,170,65.16,16-06-2024
+64,57d5b2e8-76b6-47d5-8f46-7693a263c399,Cloud Computing,Cloud,62,65.11,19-03-2024
+65,e6609667-3433-4415-8d0b-151946b81c70,Data Science 101,Data Science,37,53.16,26-06-2024
+66,14cdbdb8-0cf3-45f1-b53c-24e3b119fbfc,Web Development,Web,56,90.67,27-06-2024
+67,d56acdfe-9a27-4846-bfb9-5a8f87f5c7f5,Python Basics,Programming,136,93.33,28-01-2024
+68,7e3734ee-fad1-4485-b71c-05cd1c38a92b,Cloud Computing,Cloud,155,77.43,20-05-2024
+69,1695f21f-f90a-4f70-b0bd-016a328360e7,Python Basics,Programming,46,86.97,12-04-2024
+70,30929f56-d0ee-40f1-809b-1a9eb15533b8,Cloud Computing,Cloud,149,68.36,05-05-2024
+71,bc5e0a23-98ab-4ebc-a0c4-9d23ed1c5f01,Python Basics,Programming,77,62.74,05-02-2024
+72,635d92cb-24e9-496d-b38d-472b3f973d39,Web Development,Web,14,61.96,17-05-2024
+73,7421beea-c711-4eb4-90f7-d13b3a49e870,Cloud Computing,Cloud,51,97.25,12-04-2024
+74,41ddb53d-71be-4a48-a3c0-a08465b9f3f7,Python Basics,Programming,90,86.68,11-03-2024
+75,41c3cf8b-ac1d-4be7-911e-bb610dab7ba7,AI Fundamentals,AI,168,68.58,12-05-2024
+76,f4f08c91-73d9-4c81-b5a7-f023b7689fb4,Cloud Computing,Cloud,16,74.33,01-03-2024
+77,31539a06-306f-4076-8ecc-db71015fee3e,AI Fundamentals,AI,54,57.67,13-05-2024
+78,82873e33-d8a1-4f02-b175-8b4be19c7830,Web Development,Web,34,53.94,25-05-2024
+79,b7f379b9-ab7e-431d-a865-fc9749ea2e41,AI Fundamentals,AI,45,82.31,26-02-2024
+80,b388fe04-442c-487a-990d-fd4714b59a81,Data Science 101,Data Science,91,61.64,28-01-2024
+81,af0affa4-de90-4d69-bc6f-51242eba7bea,Python Basics,Programming,101,99.65,24-04-2024
+82,17e3cd08-b987-41c3-910c-0f1b0fb5a525,Web Development,Web,176,97.84,06-05-2024
+83,3e04fb3f-7da5-468f-b729-aec3d156b174,Python Basics,Programming,173,75.04,26-02-2024
+84,bf47590e-fd0a-4155-9eda-b2646b4b1da4,Cloud Computing,Cloud,100,55.63,25-06-2024
+85,fd078374-c533-4db8-bc98-c626b9f5be0c,Cloud Computing,Cloud,26,65.01,30-01-2024
+86,bf98ae92-86ba-4e3b-8ced-a0378dc90b65,Python Basics,Programming,92,65.66,22-01-2024
+87,ae13b474-6beb-4fa3-9d5a-f2c6d41c51ab,AI Fundamentals,AI,9,65.48,26-01-2024
+88,0c0f2560-4176-4bd1-8695-08a47325703c,Cloud Computing,Cloud,136,70.11,08-01-2024
+89,6d6119ed-536f-4698-b026-db9e3d678e08,Data Science 101,Data Science,46,90.72,15-06-2024
+90,ce785fd4-5dc9-4565-acbc-bdb8fca27ffb,Python Basics,Programming,129,78.78,08-02-2024
+91,fb0fe1c8-a4db-4ff2-a7f1-58ceaafcfea0,Data Science 101,Data Science,41,51.98,23-02-2024
+92,3e992cbd-1b64-4118-8f3e-b5766ae3701e,Python Basics,Programming,90,72.37,27-01-2024
+93,73eae188-1aa5-4669-9861-6df471134346,Python Basics,Programming,135,96.58,07-04-2024
+94,b2186d3b-3039-4b8c-8161-79ea045dfa0d,Web Development,Web,152,73.95,10-02-2024
+95,c0888681-65eb-4519-9f8d-bcce40bfe749,AI Fundamentals,AI,124,53.15,23-01-2024
+96,994ea324-bed1-4552-9685-0d7f665153c1,Cloud Computing,Cloud,52,64.09,03-05-2024
+97,84c21e7a-4ba6-4c10-b04f-136ddfc64482,AI Fundamentals,AI,139,72.34,29-02-2024
+98,bca16c9d-bcb2-4278-b8e5-271ccde0dc90,Data Science 101,Data Science,118,95.81,03-06-2024
+99,d5441708-22d6-41e2-9a89-a5e121974741,Web Development,Web,27,56.92,18-02-2024
+100,7834204f-8187-4b35-ba43-8325a97244ed,Web Development,Web,14,79.82,27-02-2024
+101,781b66e6-77f3-47a4-8ecd-5ee384633a1d,AI Fundamentals,AI,57,82.45,28-05-2024
+102,b0c2a083-1bad-4ff5-8211-198c46b86a05,Python Basics,Programming,76,86.18,06-04-2024
+103,d7198e17-20b8-483f-8d3a-525badf9bbc0,Data Science 101,Data Science,50,83.78,11-04-2024
+104,a5be996f-cdd4-477f-bf42-aa1d647309c7,AI Fundamentals,AI,164,98.87,28-02-2024
+105,a1bc86dc-641b-4d67-9c70-896bd4ae9d3f,Cloud Computing,Cloud,159,52.92,06-03-2024
+106,90454049-f3f8-43ae-b3f9-def10f9d0af7,AI Fundamentals,AI,124,70.69,04-03-2024
+107,f9a1fcb1-334d-46b3-a4a5-3022bbbd533a,AI Fundamentals,AI,168,81.44,17-01-2024
+108,6a3ef6d6-6266-4239-a57f-3704022ad6f5,Cloud Computing,Cloud,170,81.62,08-06-2024
+109,98a73d4a-3278-499d-b608-d012ce4ce2c6,Cloud Computing,Cloud,112,82.3,08-05-2024
+110,a00bc505-39a5-4425-b39e-defffc15b235,AI Fundamentals,AI,18,86.71,01-02-2024
+111,cce3a1e7-8df8-4470-9c6e-f1e60353d371,AI Fundamentals,AI,54,73.31,01-03-2024
+112,73a90294-74a1-4683-b594-283870627f81,AI Fundamentals,AI,73,75.71,27-05-2024
+113,78e6b6d1-3abc-458b-8030-699bf39ad9e3,Python Basics,Programming,75,78.19,20-04-2024
+114,0cc2f0db-f6a1-4990-b7a9-840e58358011,AI Fundamentals,AI,146,94.62,04-05-2024
+115,f81a411d-0d55-4d14-a83b-894e9ab5dcfe,AI Fundamentals,AI,179,54.21,01-06-2024
+116,bf513f60-e06e-4dc0-a8d2-94a9bd97ead3,Cloud Computing,Cloud,72,66.78,02-05-2024
+117,a022b101-e967-492e-bd12-43a6d694df48,AI Fundamentals,AI,154,84.1,16-04-2024
+118,1e7bd935-ad73-439a-95de-1cf58055d31f,AI Fundamentals,AI,17,51.47,12-03-2024
+119,79e8771f-e0c8-4f05-bbfc-27c132b6c65b,Web Development,Web,44,53.28,13-03-2024
+120,652e5257-9a11-4b70-9828-a30a92fb8f4b,AI Fundamentals,AI,116,84.53,03-02-2024
+121,a5571f1b-deb3-4eb2-886d-2e1e4e5247ae,Data Science 101,Data Science,170,59.32,07-01-2024
+122,3f2f6ce2-9608-445a-9778-f0a73280e5f2,Cloud Computing,Cloud,18,91.26,26-01-2024
+123,e350864b-bf32-4383-ada5-fdbe0c253591,AI Fundamentals,AI,167,88.41,11-03-2024
+124,b913adf9-0fad-4251-b233-20cf0da34229,Cloud Computing,Cloud,38,70.03,12-03-2024
+125,79c22be1-c68f-4104-9ee0-682976732a66,Python Basics,Programming,135,65.94,21-06-2024
+126,441a5d12-0e5d-4487-bc53-748f0b3fe994,AI Fundamentals,AI,152,65.89,20-04-2024
+127,9e3329cd-7fba-476b-bb9f-c5025dfcf0a1,Cloud Computing,Cloud,6,91.23,09-06-2024
+128,c4766799-87f6-41de-8e2c-47c93db23bea,AI Fundamentals,AI,79,92.55,24-06-2024
+129,bece4ae2-15bd-409b-a415-b2052bfde42f,Web Development,Web,104,73.33,10-03-2024
+130,f388f62c-4f0c-407a-a01c-b95b1d68e8a2,Data Science 101,Data Science,147,52.49,14-03-2024
+131,ebc68aa6-0db0-47ed-9151-67de285f6c3f,AI Fundamentals,AI,49,65,31-03-2024
+132,e5005b8c-ec58-4107-b093-7d05a78240fb,Data Science 101,Data Science,54,98.71,01-01-2024
+133,ca715d87-ac57-41e0-8af9-c109078f62fe,Cloud Computing,Cloud,94,58.29,20-01-2024
+134,ad49a22a-4308-4de9-bb58-5d395c883c08,AI Fundamentals,AI,144,87.04,05-05-2024
+135,890be1c6-34d0-46e4-86fc-ff92bacb11ea,Python Basics,Programming,74,51.64,12-01-2024
+136,e9d8d4b1-04ac-4ce0-b28d-c67829ebd9b1,Cloud Computing,Cloud,5,87.56,19-05-2024
+137,9cf227b7-e059-4a35-b47a-e9934fc350e8,AI Fundamentals,AI,47,86.48,06-04-2024
+138,6e55d46f-4ff7-430c-a457-64a4faaf2e9f,Web Development,Web,109,61.38,11-01-2024
+139,989e5386-cb29-46e0-89d4-e4f16e567bef,Cloud Computing,Cloud,57,57.26,16-03-2024
+140,4f730f84-636b-45c5-b2a2-ad0f2ca69a33,Data Science 101,Data Science,51,63.37,05-05-2024
+141,0a637b53-e9b0-4976-aac4-64c1561653ca,Web Development,Web,15,52.46,15-01-2024
+142,665192e6-4f6d-4f76-827c-19eb49d59436,Web Development,Web,28,56.37,07-05-2024
+143,0d10434b-0129-4a62-b676-88645df12114,Data Science 101,Data Science,33,84.15,21-01-2024
+144,22c7aa92-1315-4e3b-922e-ecc224978376,Cloud Computing,Cloud,128,62.66,31-05-2024
+145,9358c0d9-0ac3-4883-9c4a-f902f8f13b8f,Web Development,Web,140,71.56,03-03-2024
+146,d9b5be47-3540-4964-a439-f79b58b2c1d1,Python Basics,Programming,43,52.19,31-03-2024
+147,e8578f73-7837-45b9-81b2-61d765cb3151,AI Fundamentals,AI,77,92.03,12-03-2024
+148,6497019f-ee62-47e6-8a34-22c3514e0a69,Data Science 101,Data Science,43,57.21,24-04-2024
+149,308e97ad-81a0-4cf3-baa2-f217eb3d426c,Cloud Computing,Cloud,178,55.91,04-01-2024
+150,9e7963a0-3b52-4bed-afc8-ad5f4dd53df2,Python Basics,Programming,65,87.62,29-04-2024
+151,ff7af050-61f5-45dd-85b9-a760d5ec58d8,Data Science 101,Data Science,92,63.21,18-04-2024
+152,75a03bda-6743-477e-a98e-10b04163b9a5,Data Science 101,Data Science,88,99.88,19-05-2024
+153,f020875c-a8b3-4d03-bc78-796294f967cb,AI Fundamentals,AI,141,69.47,16-04-2024
+154,7d3488f4-b7dc-489a-afa9-3c157481d9b2,AI Fundamentals,AI,26,84.62,18-04-2024
+155,17c5e01d-ef29-4e60-9e9b-5dc89ede3589,Web Development,Web,167,68.15,18-06-2024
+156,6c8750b5-18cb-4d72-8df8-47a692dd545e,Data Science 101,Data Science,135,84.76,19-01-2024
+157,58994b83-729e-4350-b441-c18d59443282,Python Basics,Programming,18,96.25,13-02-2024
+158,c92899b5-deb1-43cf-a689-c9256a816955,Cloud Computing,Cloud,7,52.68,19-03-2024
+159,8c910b43-115f-4680-85b9-f1b73bfec444,AI Fundamentals,AI,27,65.08,23-01-2024
+160,bf5c97ee-73a3-4d51-9e05-36dccc52fdfc,Web Development,Web,106,58.96,14-06-2024
+161,1b433b90-d04d-438c-b3d5-930080b44444,Cloud Computing,Cloud,136,63.61,31-05-2024
+162,1f90c447-68ee-44e1-a917-4cc45cc764b2,Python Basics,Programming,39,65.91,20-04-2024
+163,bdb9e026-54fe-4ddd-8962-758f196bf85d,Python Basics,Programming,82,58.11,14-04-2024
+164,466259af-bf19-4f96-8d0f-cd4b1745fe07,Cloud Computing,Cloud,146,73.57,25-02-2024
+165,792679ee-c495-4a20-a41c-6c55ff1fc846,Cloud Computing,Cloud,165,87.51,28-04-2024
+166,b7d67235-42da-476e-8580-e3d1a352ee3c,AI Fundamentals,AI,80,88.84,13-05-2024
+167,cff7e36c-a818-49f1-a831-3c2d4fb3422c,Cloud Computing,Cloud,135,73.73,20-02-2024
+168,31cf87c3-eae2-446e-bfc1-41915babc667,AI Fundamentals,AI,114,83.44,04-02-2024
+169,f3a1d105-92a0-4761-898f-a00622283cc2,AI Fundamentals,AI,49,60.39,18-05-2024
+170,7a320a27-41fd-412d-b2f0-c356293fc714,Data Science 101,Data Science,137,87.19,11-04-2024
+171,96af1e51-4e42-4b43-b074-30ffe9c85262,AI Fundamentals,AI,17,59.91,17-06-2024
+172,819baaa1-e182-4805-a2f0-dea913bc1a98,Python Basics,Programming,15,78.29,11-03-2024
+173,3467b36e-5b15-4a06-b220-46fce4f9ffbb,Data Science 101,Data Science,110,86.39,22-04-2024
+174,e74507aa-36f1-480c-bb31-fb99ea91c206,Cloud Computing,Cloud,111,66.84,23-05-2024
+175,ff8d17ba-5ce2-4c25-88e6-248f3af784fd,Python Basics,Programming,54,83.34,27-05-2024
+176,b3230448-6782-4d4b-ad6e-3b5c9c86d3bc,Python Basics,Programming,116,75.37,26-01-2024
+177,78854e41-d3b6-4aa5-a97b-9023594d330b,Data Science 101,Data Science,174,50.37,23-06-2024
+178,4c99e868-6542-4bb2-974e-765c17b1ab4b,Python Basics,Programming,168,83.66,06-06-2024
+179,3bb87c22-c477-4bed-ad7c-71a9feed819e,Cloud Computing,Cloud,45,99.86,01-01-2024
+180,481c9696-30af-454b-bf6f-2f3910553f3a,Web Development,Web,114,52.46,28-02-2024
+181,63364300-9516-405a-9e38-b77d07c27fb3,Data Science 101,Data Science,163,53.99,06-01-2024
+182,e0700ed3-d531-4f47-a78b-ba219efbea37,Data Science 101,Data Science,41,59.05,14-05-2024
+183,c232c503-cac5-471b-9a74-39d1d63c2cf1,AI Fundamentals,AI,163,54.91,07-03-2024
+184,cbf58c7f-76f8-4f81-b7f9-a269f5533987,Data Science 101,Data Science,125,97.66,13-04-2024
+185,3dbb059e-a83b-41a3-aebe-29083acd9c92,Web Development,Web,86,54.71,16-01-2024
+186,1c03013e-4f1a-44f9-af4d-6368189751b4,Web Development,Web,132,87.86,22-04-2024
+187,51a75fa4-8d6e-44af-926b-01bf363ade8a,Web Development,Web,44,73.06,23-02-2024
+188,9b2a5fb0-9687-4ba1-81cf-ab87b7fb2ebf,Web Development,Web,153,65.82,26-03-2024
+189,d5f8e3b4-dc93-476f-be2a-edd66a6a36b4,Cloud Computing,Cloud,120,66.19,19-01-2024
+190,377999b1-fdd8-4bb6-bd33-a55f2717f463,Data Science 101,Data Science,150,63.32,04-04-2024
+191,e955ee15-4ed3-4065-b733-44a91cf337f9,AI Fundamentals,AI,122,51.84,08-06-2024
+192,e741f9f2-a8c3-4c91-8067-48b5aa2fca3a,AI Fundamentals,AI,100,93.01,24-03-2024
+193,27f1ff1b-f7b8-4b9b-b646-722be1201dc6,Cloud Computing,Cloud,12,79.86,06-01-2024
+194,2ee2c9f3-eb91-4a5a-b201-f2615c224929,Web Development,Web,45,70.35,28-06-2024
+195,f8d264fe-d457-4e73-bb00-00423190e862,Python Basics,Programming,172,99.39,25-03-2024
+196,d924b154-b030-44a8-aab6-d90d6e04474f,Data Science 101,Data Science,42,87.49,06-03-2024
+197,5480944a-71b7-4a8d-8fe3-c1db4cb25883,Cloud Computing,Cloud,122,67.13,23-03-2024
+198,34e52f74-d27e-4143-b33f-2d6edabbcf1e,Python Basics,Programming,113,81.09,10-03-2024
+199,350297b9-960f-4cd3-922f-2278fc75e2ae,Python Basics,Programming,102,65.79,09-03-2024
+200,ff50825a-7099-4230-95a7-77ed92662bd6,Cloud Computing,Cloud,138,71.36,21-01-2024
+201,9756da24-d399-4a3a-ac33-033f1c4b340d,Python Basics,Programming,122,61.89,01-01-2024
+202,88cdda5d-1990-46d4-9864-6cefbd2b4b55,AI Fundamentals,AI,78,62.74,01-04-2024
+203,a99f6a81-58f3-4fca-af1c-eb7199d52cda,Web Development,Web,49,73.35,12-06-2024
+204,a229d918-a551-4003-be56-9417b1c322b1,Data Science 101,Data Science,67,78.4,11-06-2024
+205,958e1fb3-2fa2-4102-aab4-ad69a42460de,AI Fundamentals,AI,22,83.08,20-06-2024
+206,c6bcbf16-c1fa-4cf9-9e7a-f65642bf9659,Web Development,Web,113,82.02,14-02-2024
+207,2f52cec7-f404-405c-805d-635bcbd387b4,Python Basics,Programming,33,54.93,29-03-2024
+208,34bc6d7c-6850-4260-8c6f-f241284f97c7,Web Development,Web,34,78.03,20-01-2024
+209,4a7e3e75-7dbd-4230-8a8c-b82410357bb6,AI Fundamentals,AI,14,66.88,27-02-2024
+210,e6bf84f4-f49b-4716-b45a-dc51ce82bd6b,Python Basics,Programming,158,62.04,27-03-2024
+211,b8840a73-a548-4731-8a1b-2fd61cbb7f4d,Data Science 101,Data Science,28,50.54,18-01-2024
+212,67cd0c97-1d9b-4c25-94f8-0a19c80f25e7,AI Fundamentals,AI,99,87.76,27-02-2024
+213,2b275b40-972a-4256-a5d1-b5c661838d47,Web Development,Web,63,83.19,06-03-2024
+214,8d3a33cd-c469-4bdb-8ec6-82fa6239555c,Web Development,Web,67,92.08,25-04-2024
+215,26f79a27-45a2-4c8e-8b84-b3dbff958cae,Cloud Computing,Cloud,175,95.32,18-03-2024
+216,7fb7f979-37b4-4440-b9e8-cb286a891772,Web Development,Web,71,76.15,07-01-2024
+217,b907064d-4282-455a-8686-ead72b628ad6,Python Basics,Programming,52,85.72,29-04-2024
+218,a5345c57-e2bf-4a5e-a033-799d5b189da6,Data Science 101,Data Science,123,90.82,11-01-2024
+219,9f679957-6e23-44be-a2d0-2daff711a5e4,Cloud Computing,Cloud,69,77.78,05-02-2024
+220,8866aaa0-6c6e-429d-9e94-bb32b18edcdc,Data Science 101,Data Science,110,86.86,27-05-2024
+221,b8488b87-d515-474d-93ae-747714c1899c,Web Development,Web,42,63.11,11-06-2024
+222,520ff426-3e02-44a2-a7ca-ed98c3b9386a,Python Basics,Programming,18,54.42,05-03-2024
+223,4c943cb7-3877-41c6-a2b5-e49b56cbd0ba,Data Science 101,Data Science,145,94.76,27-04-2024
+224,532143a6-d636-486d-acc1-9cd66862f5f5,Web Development,Web,170,69.89,03-05-2024
+225,53a9f614-ee56-4231-a6bb-5361eb84bb62,Cloud Computing,Cloud,48,53.69,14-02-2024
+226,08e0ecc0-450c-4997-ac17-8a299d742464,Cloud Computing,Cloud,171,86.75,11-06-2024
+227,9829373d-210f-463b-9457-b58c69691ef0,Cloud Computing,Cloud,60,91.34,06-01-2024
+228,5ad0c332-f626-467d-8843-4f280290c9a2,Web Development,Web,52,84.14,05-04-2024
+229,64a4fbe9-3344-4a2e-81ab-eefe5de5b726,Cloud Computing,Cloud,72,71.63,22-01-2024
+230,52689457-1876-4f06-8abc-99f690e71f77,AI Fundamentals,AI,128,90.27,26-05-2024
+231,c8bd2d91-b972-431a-9f68-bf532fc23dff,AI Fundamentals,AI,27,71.37,03-05-2024
+232,2714e765-d263-481e-b97b-c0b839507b8e,Data Science 101,Data Science,16,51.45,13-01-2024
+233,0a59e76c-49f1-401c-9cb1-59b840ddb998,AI Fundamentals,AI,84,62.45,08-06-2024
+234,d10d7d70-a930-41e5-a513-7650383bf731,Data Science 101,Data Science,145,62.21,11-06-2024
+235,c1a4289a-5de1-4754-bca0-ece23f3dbe87,Web Development,Web,101,97.21,11-06-2024
+236,979137e9-d2aa-43dc-8477-a3152f5e18ea,AI Fundamentals,AI,118,87.57,02-01-2024
+237,aa9f62c9-0560-467a-a943-c25f560862f6,AI Fundamentals,AI,48,52.91,29-02-2024
+238,c1e0d721-8bd6-4409-b327-7687272715df,Web Development,Web,116,56.16,30-04-2024
+239,23cb1afe-cfa8-47b3-8780-8e980bb0cda2,Cloud Computing,Cloud,179,83.95,24-04-2024
+240,b295dc0e-37f3-4395-adaf-dc0af7c52cd4,Data Science 101,Data Science,21,86.48,16-03-2024
+241,5fe9e159-7bc9-432a-9fee-b6bee0187658,Cloud Computing,Cloud,54,83.02,30-05-2024
+242,842fb885-085a-455c-b04e-207de87e6d77,Data Science 101,Data Science,143,60.81,26-06-2024
+243,3108a135-b094-49e3-9b43-a703976c63a8,Python Basics,Programming,115,63.91,28-06-2024
+244,12fcb316-e8e7-4f4c-aec1-cdcbb133cda9,Cloud Computing,Cloud,169,91.64,20-04-2024
+245,decf2f34-9728-45e3-baf0-e95dda09bb7d,Data Science 101,Data Science,108,52.04,10-06-2024
+246,f4048f68-f496-4d4a-b81a-22861139b099,Cloud Computing,Cloud,117,69.99,18-06-2024
+247,4cf66a62-bb1c-45ed-ad2c-5de93a0885c1,AI Fundamentals,AI,33,83.4,28-06-2024
+248,1fe3dd01-e1d2-4c30-80ce-a50b28283473,Python Basics,Programming,19,87.66,04-01-2024
+249,8870be9f-3f42-4dcb-8a3e-b10740e3512b,Cloud Computing,Cloud,15,73.51,14-06-2024
+250,8b84def3-19c8-4d0b-bb5b-3eab150f57e9,Python Basics,Programming,52,91.71,23-01-2024
+251,b3208ded-d4e6-44e3-b421-0e0e30fc5e08,Data Science 101,Data Science,50,52.86,19-05-2024
+252,662b003d-4b80-4751-b4db-57ea633da7a2,Cloud Computing,Cloud,12,92.47,01-04-2024
+253,62df89a5-a98f-425b-acca-d5e38356214a,Data Science 101,Data Science,40,54.32,16-02-2024
+254,c67cf3f4-eaed-474b-bafe-1ebcf915ecfd,Python Basics,Programming,152,69.03,24-02-2024
+255,b17acaf5-0853-4535-9945-4fafc89c5fae,Python Basics,Programming,43,54,02-04-2024
+256,5d532190-71cd-4c62-94c4-6182cc81b649,Data Science 101,Data Science,9,73.01,18-05-2024
+257,6bf289bf-04f7-48c3-93c6-73cbb4d79519,Web Development,Web,167,91.81,20-03-2024
+258,6e829a60-cef9-46d6-87b7-c3779fae1e15,Web Development,Web,38,99.03,05-05-2024
+259,9c9f646c-aed8-4f39-b147-95e016e3c7cd,Cloud Computing,Cloud,53,65.77,09-01-2024
+260,2dac81e9-36e0-455e-94e6-ab032bab0cb3,Web Development,Web,174,85.76,03-03-2024
+261,f973624a-d626-4acb-af53-25ba35861151,AI Fundamentals,AI,18,61.39,03-05-2024
+262,43c9a8e7-e52f-40fe-a750-00961c296009,Data Science 101,Data Science,175,83.59,21-01-2024
+263,2dbc3d99-f570-46c9-8a7e-7b28af7a0653,Web Development,Web,142,52.25,19-02-2024
+264,6044982f-8feb-4485-b73a-e08afba32300,Python Basics,Programming,16,75.55,27-02-2024
+265,348e2d49-d43d-402d-8f1c-79f25a6de509,Cloud Computing,Cloud,86,91.21,16-06-2024
+266,c125cb59-a190-43cd-90d3-900445ffd6f4,Cloud Computing,Cloud,144,96.62,07-02-2024
+267,25a9d1cc-7394-4858-b5b9-68109c677529,AI Fundamentals,AI,128,72.44,14-01-2024
+268,35fcdc10-b380-4f44-89fd-4c40005bbfe1,Web Development,Web,83,88.14,18-06-2024
+269,4dbc4846-26bb-45f7-9a51-f40c4900a925,Python Basics,Programming,26,62.29,02-06-2024
+270,bb05aafa-6609-4c77-b166-e5d9cf161285,Web Development,Web,63,54.21,29-03-2024
+271,ba0cc7da-cbf9-4930-ba76-8e759e7b2f75,Data Science 101,Data Science,125,55.19,04-01-2024
+272,bc479bbe-7f6a-491a-b7fe-837d5f6accee,AI Fundamentals,AI,140,72.21,24-06-2024
+273,bbafc2a9-cd14-4915-a4ca-44e44e8bc001,AI Fundamentals,AI,61,72.8,20-04-2024
+274,8e84f03a-20e8-47a3-a977-270d7804447f,Cloud Computing,Cloud,154,73.83,28-03-2024
+275,1deb17e0-8654-4c34-a68e-1d090a8a2a2c,AI Fundamentals,AI,14,60.91,02-02-2024
+276,ebec3990-26f8-42f7-800c-eccfc0e407a2,Data Science 101,Data Science,91,90.85,02-03-2024
+277,406869d6-b693-4af3-8b5f-0f175426f395,Python Basics,Programming,165,78.86,15-06-2024
+278,e3005a41-61c8-417a-89a2-f1c53936782d,AI Fundamentals,AI,137,94.84,22-05-2024
+279,5205d420-ebe8-40d0-ad60-d79dbc4505d0,Python Basics,Programming,173,57.45,06-03-2024
+280,b0af24bb-2598-4a6a-ab72-8c13327e7648,Web Development,Web,134,85.44,04-06-2024
+281,9ff52713-b9fb-42d1-b488-8951988ff24d,Web Development,Web,144,78.66,08-03-2024
+282,87cf24a5-1ea4-4314-a6cb-82d7aa64815b,Cloud Computing,Cloud,31,63.28,03-02-2024
+283,17d6efd5-8a63-4b00-9bc5-7e6eafdce320,Python Basics,Programming,174,53.47,14-03-2024
+284,bdfff058-6dbb-401b-a31c-d66e4c19913e,Data Science 101,Data Science,21,50.63,03-05-2024
+285,1bc87818-a033-4b62-a742-e09706fc244e,Web Development,Web,73,65.64,03-05-2024
+286,32cf59a0-5723-43ef-b4de-ee54d580ce5a,Python Basics,Programming,91,93.7,15-06-2024
+287,02c566f3-b27e-41b9-8a86-c9ba157c5743,Cloud Computing,Cloud,110,99.51,07-04-2024
+288,38857a7c-8583-4bf1-beef-0efcaf36bedd,Python Basics,Programming,5,93.05,03-01-2024
+289,fc441ee2-d6f5-4d19-80c7-148db4c58a85,Cloud Computing,Cloud,141,69.14,04-03-2024
+290,93d81665-22db-45f0-9e37-63b880fbdbd4,Data Science 101,Data Science,19,83.08,02-06-2024
+291,2c8fd607-0d96-4fdd-a0d1-0f3c35d1e97f,Python Basics,Programming,114,64.47,09-06-2024
+292,95bc0697-e613-47d4-924a-f7d2d227c3a7,Python Basics,Programming,142,57.42,01-01-2024
+293,aedad9d8-a297-4f64-b6d6-6312f7440996,AI Fundamentals,AI,158,59.32,27-06-2024
+294,ee4fde71-5a6c-40c1-8790-f7b7e5d623e2,AI Fundamentals,AI,158,98.05,28-06-2024
+295,b90fed00-a61f-4c4e-b932-9a25aec433bd,Python Basics,Programming,14,53.22,26-01-2024
+296,7a98c82d-d8fc-4e1f-a06d-fa448610afef,Web Development,Web,121,50.19,26-03-2024
+297,198abbdd-8156-4cdb-ba77-edf95ed3e3ed,AI Fundamentals,AI,133,76.03,08-06-2024
+298,e9113b51-d5af-4af1-8364-8a17e2d7f84a,Python Basics,Programming,26,97.66,19-05-2024
+299,4bd9a56c-a979-475e-b473-2a0b3566fac2,Python Basics,Programming,5,69.8,07-04-2024
+300,d3b0ce59-7b9b-4a40-b879-1327a3fef548,Web Development,Web,74,68.37,08-05-2024
+301,19c5bd30-d039-4060-96f7-2c58055aa425,Data Science 101,Data Science,62,68.02,21-02-2024
+302,4091cd6b-4fe8-42a1-b50a-cf387364ec7b,Web Development,Web,141,65.13,02-01-2024
+303,03618806-cb51-46c7-a802-42b5ff377750,Python Basics,Programming,41,51.07,19-04-2024
+304,295355f5-ed43-42d2-96c2-6d25067f5e9a,AI Fundamentals,AI,32,56.42,17-05-2024
+305,6a6acd0a-327f-4a21-9bcb-7d7247df3a19,AI Fundamentals,AI,33,81.99,25-03-2024
+306,c78b1d59-ba86-48f4-957f-a198844c35c4,Cloud Computing,Cloud,72,58.7,25-01-2024
+307,30cad7bb-7c65-4005-a5af-d98b9ceeedc1,Cloud Computing,Cloud,18,72.77,19-04-2024
+308,49e3c466-af13-4071-873b-db8a009fdfc1,AI Fundamentals,AI,86,80.57,20-01-2024
+309,c5c5236e-4183-4434-8297-4a0af36d9d70,Web Development,Web,34,95.37,27-05-2024
+310,9c282464-ae49-4d1c-8c50-e8da067b2970,AI Fundamentals,AI,20,65.12,19-04-2024
+311,ad5533a1-7b97-4778-86ae-334759f76780,Cloud Computing,Cloud,123,78.16,04-01-2024
+312,99d070fd-a196-4e04-a9ac-c0ea6c956cb7,Python Basics,Programming,27,94.3,16-04-2024
+313,e3a2647e-acb3-4f33-98c2-995354fb9283,Python Basics,Programming,118,77.72,05-01-2024
+314,918f7400-07be-4fda-9b68-709c24db978f,AI Fundamentals,AI,129,61.69,08-01-2024
+315,90df6c7f-ef91-47d7-bf24-f343607f2ea9,Data Science 101,Data Science,76,91.24,05-04-2024
+316,4766c8bd-a490-4f7a-a4a5-593a64c79827,Python Basics,Programming,77,80.12,21-01-2024
+317,5e8a27da-d78f-41c1-942c-1eabc90306c0,AI Fundamentals,AI,9,66.17,26-03-2024
+318,23e86473-50eb-413d-9118-cda0326091f6,Python Basics,Programming,138,91.8,19-06-2024
+319,2a007a2f-1db8-4d96-bf35-97c04783abc0,AI Fundamentals,AI,152,65.45,04-06-2024
+320,29bcac07-31d5-4611-b8c0-898d8fdc700d,Python Basics,Programming,53,53.07,10-01-2024
+321,d4449df7-f32e-46e6-879a-2a5bf260bff5,Cloud Computing,Cloud,91,52.39,27-01-2024
+322,f219f6a4-6b50-4017-9acc-ac7d2fc014dd,Data Science 101,Data Science,131,72.64,26-05-2024
+323,7023a73e-0dd5-4124-85d9-bee4724ceeba,Web Development,Web,178,74.72,24-01-2024
+324,1047b1c2-254f-4d64-bb8d-6dfcb1c41b36,Data Science 101,Data Science,102,92.81,16-04-2024
+325,20712114-14a0-4eb8-9dc0-5d70f21c5f83,Data Science 101,Data Science,15,55.03,06-02-2024
+326,b6e43cf1-e14d-41ef-859e-9c5e61fc18db,Web Development,Web,44,86.13,09-05-2024
+327,1ffa3dee-81a4-452f-88ee-ff679fb11dd4,Cloud Computing,Cloud,30,67.23,28-02-2024
+328,c190dc1b-1f95-4f56-891e-edb20d23f5ea,Python Basics,Programming,8,54.48,13-04-2024
+329,b6892ad0-8e1c-409a-b01d-592f236e432a,Python Basics,Programming,167,92.51,06-02-2024
+330,39d5812b-65cc-4385-b078-509651e01b0d,Cloud Computing,Cloud,140,55.21,12-02-2024
+331,cc546495-305c-4fe0-8e99-59b86cf938b5,Python Basics,Programming,135,58.5,26-04-2024
+332,e2d91cc8-5dc0-43aa-ac75-e429e9e03711,Web Development,Web,131,76,13-04-2024
+333,3a2ae3cc-8eb6-40f6-b23e-cdab1c99f6dd,Cloud Computing,Cloud,160,87.74,22-02-2024
+334,62e44dc2-28c8-4a90-8eca-ed146496b1ab,Web Development,Web,133,92.3,16-01-2024
+335,f7a33637-056a-4ef4-ade2-be4193ec3ae4,Web Development,Web,95,73.8,28-03-2024
+336,48cab24d-e70f-4f6a-a5a2-9abb552f797f,Python Basics,Programming,80,68.62,11-04-2024
+337,61686ab0-d410-447b-bd71-4656b82aec7c,Cloud Computing,Cloud,23,56.68,26-04-2024
+338,16a22a1c-563b-4a8e-8321-69a2718d0931,AI Fundamentals,AI,14,82.94,11-06-2024
+339,650e9274-8907-4c10-9d96-a98dd8fae3fd,AI Fundamentals,AI,80,65.56,28-06-2024
+340,864f42fb-86e1-4110-b65a-78d1cb76d049,Data Science 101,Data Science,27,92.95,25-02-2024
+341,6f0bd1bb-389c-4878-b5ba-77c483a2fed2,Cloud Computing,Cloud,12,63.95,09-02-2024
+342,7a24cd31-d00c-4476-98f4-2645a792683e,AI Fundamentals,AI,29,94.08,10-03-2024
+343,3411aef8-cd38-47b2-be21-e755c97a0aef,AI Fundamentals,AI,92,94.48,04-04-2024
+344,c2c0ba37-c111-4372-9330-aba352698232,AI Fundamentals,AI,22,63.61,23-05-2024
+345,8f8d1304-cb39-4d76-86b5-e690b44f487a,Web Development,Web,23,81.32,16-04-2024
+346,72bcbb2e-3c81-4d24-aa01-904415a0d01d,AI Fundamentals,AI,96,71.84,07-02-2024
+347,2f5a13c5-d2d5-494f-9b89-5345b225854e,Web Development,Web,30,90.71,15-03-2024
+348,65594876-23c0-480c-bff0-051dabd66de2,Data Science 101,Data Science,9,86.44,16-05-2024
+349,ccd70022-ac8a-4f20-a945-af3200186552,AI Fundamentals,AI,54,61.15,27-04-2024
+350,e567504d-b04b-4f99-a4a5-867e765b7948,Data Science 101,Data Science,173,83.83,27-02-2024
+351,52a51342-f653-40da-8284-cac8a962d3ca,Python Basics,Programming,131,59.97,23-06-2024
+352,7c25283c-493f-428b-a934-b2d611766cad,Web Development,Web,18,59.07,20-01-2024
+353,1a086203-7fb8-4150-8528-a753697421d3,AI Fundamentals,AI,14,62.77,13-06-2024
+354,6eb3794a-93e1-4921-9cec-3c5b52402f64,Cloud Computing,Cloud,39,91.14,20-06-2024
+355,bf197b73-d381-4180-9ea1-55d315972012,Web Development,Web,85,69.66,14-02-2024
+356,920e057b-60bd-45bb-a2c5-427303965af9,Data Science 101,Data Science,6,58.16,08-03-2024
+357,389de9d2-2a8d-43ae-8a40-945845b69c8d,Cloud Computing,Cloud,174,64.47,14-01-2024
+358,f8ed420e-9ad8-4840-a642-24ef1a35eada,Data Science 101,Data Science,176,74.52,20-05-2024
+359,ee74e420-a728-483f-b8f9-1357f9567cbd,Cloud Computing,Cloud,71,58.9,14-06-2024
+360,408deb44-06ae-4075-8a21-cab963648864,Cloud Computing,Cloud,86,63.63,17-04-2024
+361,c7c231ac-f522-4b81-b278-f0e9ee168cbb,Python Basics,Programming,84,65.81,02-02-2024
+362,ad9a6058-a0a5-41ec-9b49-8fefcf7668b9,Python Basics,Programming,174,67.82,08-06-2024
+363,98c18269-72c6-4643-bf8b-8a598dd7925d,Python Basics,Programming,168,81.27,06-02-2024
+364,196cffe9-8147-4a78-8152-267219fbb7fa,Cloud Computing,Cloud,52,98.33,10-03-2024
+365,f2791fd9-57b1-484e-beb2-cf76c6a16a26,Python Basics,Programming,140,96.46,21-06-2024
+366,9be48ae6-116c-4c29-9eef-efbe38535dd8,Data Science 101,Data Science,101,60.3,04-02-2024
+367,3cd65973-4326-450e-8530-657a7844ea3e,Data Science 101,Data Science,103,82.55,21-05-2024
+368,023a0106-9b2d-48c4-8c98-b7da831ea931,Python Basics,Programming,49,55.93,06-03-2024
+369,4c8146f4-aef3-45b1-bd39-aaa8e48dfc32,Data Science 101,Data Science,102,71.88,16-03-2024
+370,43f6f268-35df-4960-8d8d-e25ca751b6d2,Data Science 101,Data Science,114,69.38,16-02-2024
+371,6c0ddf5d-a220-45a6-9c94-1e6338ce5c68,AI Fundamentals,AI,171,57.47,20-04-2024
+372,5e000258-1e16-4cce-bbd7-e219753312a6,Python Basics,Programming,128,82.8,30-03-2024
+373,f332c0b5-acf9-4215-8cba-7644cf8ea682,Cloud Computing,Cloud,77,98.98,14-01-2024
+374,365581a2-f44c-4366-ab64-dbc30e89dc8a,Web Development,Web,93,96.45,04-06-2024
+375,5399db59-9917-4142-bcaa-557f3f24a062,Cloud Computing,Cloud,71,97.69,25-01-2024
+376,3d3866ab-abb5-425e-adf3-698e9eaf1164,Web Development,Web,103,83.91,15-02-2024
+377,808f060c-e302-4c6b-8f47-48b101255ff3,AI Fundamentals,AI,94,99.39,18-01-2024
+378,5d8a7f82-34d2-4cc0-bb5a-24a301109c05,Python Basics,Programming,111,82.84,21-04-2024
+379,b0e6f0a6-2e2d-42e0-8ebd-0241257e9d43,Cloud Computing,Cloud,124,63.35,19-05-2024
+380,35463a17-a4e2-4039-9274-803c11e8119b,Python Basics,Programming,99,70.9,17-05-2024
+381,ccba3df6-c441-4d75-9e78-6b32bcb40ddc,Cloud Computing,Cloud,83,77.97,23-04-2024
+382,d4309f7d-4a90-4599-b429-cff0436acb4c,Data Science 101,Data Science,70,94.21,03-01-2024
+383,111dce35-a43a-4854-82fb-4f77f9ae9a17,AI Fundamentals,AI,138,72.54,13-02-2024
+384,b1ac3f26-84db-4065-9830-73b002510f54,AI Fundamentals,AI,82,86.11,06-02-2024
+385,18d681e3-4c5d-4b41-aefd-50faa2441d2e,Python Basics,Programming,76,56.2,23-03-2024
+386,19d033c6-2a2b-4997-975e-63ce5e755b59,Web Development,Web,101,73.02,22-06-2024
+387,c5355cab-68fc-473e-8096-bdf05dce3fff,Data Science 101,Data Science,80,50.21,08-04-2024
+388,24c5994f-d1d4-4ca5-ba39-4ff393704d78,Cloud Computing,Cloud,128,79.15,10-02-2024
+389,3c6b6fbe-d0b9-4e2d-91a7-dcca27027cbe,Web Development,Web,17,77.32,07-04-2024
+390,df2817e0-24ea-4c25-88a3-51ae05bff788,Cloud Computing,Cloud,154,64.92,20-03-2024
+391,30d676f4-e6cf-4938-b3be-6012e54d1bd9,Web Development,Web,13,78.12,03-03-2024
+392,8e3e2901-45e5-47a9-98c2-9fa501eea10f,Web Development,Web,174,64.55,22-01-2024
+393,15e999ce-7ec1-4731-b358-5c270377b380,Cloud Computing,Cloud,164,82.32,30-03-2024
+394,72b1ea90-a2b4-4dab-8b56-85d423a6200d,Web Development,Web,41,62.76,28-05-2024
+395,d2010091-2c59-49ed-8c44-473474588289,Python Basics,Programming,78,95.17,01-06-2024
+396,19b2031e-b01c-47a5-b2db-38daca76cacc,Cloud Computing,Cloud,72,76.44,22-06-2024
+397,279a7121-0d7c-46ef-bdb4-c86044147da0,Python Basics,Programming,47,72.15,23-06-2024
+398,a76877f9-1ccf-400d-bbe6-d6ca3c5e4a0a,Data Science 101,Data Science,75,89.72,16-03-2024
+399,b372bddf-45df-49b4-8588-0f3de70e50db,AI Fundamentals,AI,73,95.13,14-01-2024
+400,3fbdd731-e9f8-4f5f-8ed6-90b3a02d3f2b,Cloud Computing,Cloud,114,64.95,13-03-2024
+401,ea969067-2d44-4c55-b90a-10694ac76327,Cloud Computing,Cloud,175,56.29,30-03-2024
+402,a7dec9e3-0b28-4610-9b0c-adc58102c13d,Web Development,Web,77,78.78,07-02-2024
+403,26278332-cf97-4842-bcd2-5d6c63684c86,AI Fundamentals,AI,75,79.27,20-04-2024
+404,69639906-7e3d-46a0-9e12-841575d5ab07,AI Fundamentals,AI,73,96.04,19-02-2024
+405,76e02c70-a223-4729-b78d-a8d212e0cad4,Python Basics,Programming,93,72.61,21-05-2024
+406,eb605add-2ffc-4728-a6c7-f9060f752bc0,Cloud Computing,Cloud,34,88.94,12-01-2024
+407,3bcf5197-2851-4f9b-b6e4-825ff8fc796b,AI Fundamentals,AI,5,55.23,17-06-2024
+408,08a7fa9f-2ac0-4909-bba7-6d3fbcd9a878,Data Science 101,Data Science,43,95.72,08-03-2024
+409,ed6d10c0-c039-4e7b-b0d1-01a528c7d982,Python Basics,Programming,22,84.89,24-02-2024
+410,27ab91d3-b556-4021-867f-f0902f8f8d3b,Cloud Computing,Cloud,105,54.57,15-05-2024
+411,22704256-d149-4868-a550-cf5dfdbe3039,Web Development,Web,60,70.05,19-04-2024
+412,005e8f1d-5701-4b17-aa63-2bb01528a4e1,Cloud Computing,Cloud,50,77.21,27-03-2024
+413,bb96c27a-dd07-4fd8-bbae-47497f65f74f,Cloud Computing,Cloud,81,86.68,17-06-2024
+414,99e91657-cdd3-4128-844e-afe357c8abbe,Data Science 101,Data Science,110,63.28,23-04-2024
+415,db80162d-f2f5-44a4-b86a-e622906f89fc,Python Basics,Programming,113,58.98,08-06-2024
+416,81b66781-aef8-41c2-8bb4-63a28d644dad,Data Science 101,Data Science,40,61.02,03-02-2024
+417,a0d59903-fde3-4f94-a1f0-73cacf4b5554,AI Fundamentals,AI,146,58.76,14-01-2024
+418,b6682178-038e-4cbc-9f95-4dff7e9a8ff0,Web Development,Web,100,61,22-02-2024
+419,08bc45f3-54a6-4da5-a322-39872289d084,Data Science 101,Data Science,164,55.08,12-03-2024
+420,8b890e2f-c619-4d09-8ece-873e2d324c1c,Cloud Computing,Cloud,163,80.08,22-04-2024
+421,2c1126c6-83eb-41fd-8831-8a34dedb31ca,Web Development,Web,141,66.75,06-03-2024
+422,0f632045-104a-4b94-81ec-cd045ee8f431,Python Basics,Programming,42,76.75,29-05-2024
+423,d9ae407f-4a7b-4b52-b2a3-d3c477661ae3,Web Development,Web,141,62.32,17-02-2024
+424,06adacaf-8849-4523-8a58-aaca1a1e1527,Cloud Computing,Cloud,166,67.99,11-01-2024
+425,e686bc10-13e6-40a5-8cc6-ff5232b45d1d,AI Fundamentals,AI,145,82.62,29-05-2024
+426,a48e2a90-efe8-45ba-aff2-3a4b099f7e08,Data Science 101,Data Science,37,79.53,09-05-2024
+427,f6c44f70-afde-498e-90df-710ef0269d42,AI Fundamentals,AI,162,93.46,06-06-2024
+428,30aea2d0-0478-439e-9925-d007d126a787,Python Basics,Programming,25,81.62,13-04-2024
+429,924c5404-2bb2-4cdc-9835-d92748ca60fc,AI Fundamentals,AI,77,55.68,29-04-2024
+430,9137cea2-102c-457f-8893-b883e287bf63,AI Fundamentals,AI,149,97.82,26-05-2024
+431,0da52686-bb54-4e2f-8d74-43b8d84c2095,AI Fundamentals,AI,123,56.56,07-04-2024
+432,80a695e1-9a3f-4045-8ae6-d513f7af00d8,Cloud Computing,Cloud,67,74.33,20-04-2024
+433,48266e83-13b0-45a6-b68e-6e32bc795e45,Web Development,Web,18,96.56,11-06-2024
+434,1f181ea7-7937-4962-a9cc-5a5c4c0770f7,Cloud Computing,Cloud,173,83.62,27-04-2024
+435,eebe8718-f398-4c16-9b44-22b010f1496b,AI Fundamentals,AI,112,85.82,15-03-2024
+436,8756c783-3807-42d6-93c0-8d1dca5aac96,AI Fundamentals,AI,91,72.1,18-04-2024
+437,f74bef0b-30c5-4280-aac4-b427dad331a5,Cloud Computing,Cloud,54,94.95,06-03-2024
+438,0cd3a909-080f-4eb9-993e-bd346c390619,AI Fundamentals,AI,12,76.63,29-01-2024
+439,dc8e5e43-9161-4339-8190-8adca0b47358,Web Development,Web,91,54.31,28-05-2024
+440,d894a214-539e-4d8f-bb78-ef7eaaf0c728,Python Basics,Programming,46,71.56,21-05-2024
+441,4c65c2f2-10bd-45de-b923-8f2c10e5b1af,Python Basics,Programming,35,74.48,10-02-2024
+442,2c41be93-a67d-4000-95a2-7aa4fb7274e8,Data Science 101,Data Science,114,63.37,27-01-2024
+443,eff91dfa-e375-4b87-9fef-abf5e9f36d28,Python Basics,Programming,142,77.05,30-05-2024
+444,e40fee7d-33e5-4b38-973c-5c8f643065ba,Data Science 101,Data Science,12,60.49,25-01-2024
+445,6b2a3f88-811c-4949-9e3a-174516e7cb9a,Web Development,Web,133,65.84,22-03-2024
+446,923700af-017c-483b-a00f-7d2339aebcdb,Web Development,Web,61,63.64,21-01-2024
+447,f0a7acb4-c543-43a1-b597-0a26355c401c,Cloud Computing,Cloud,148,86.96,13-02-2024
+448,e915b0d2-f6ab-4fde-bacf-d059a0bcb83b,AI Fundamentals,AI,72,80.72,20-01-2024
+449,3573b68a-e03d-477f-bd3e-ea3f7352a3d2,AI Fundamentals,AI,5,70.03,04-02-2024
+450,63cf3d11-9706-4304-b524-372c5663ffc9,AI Fundamentals,AI,54,59.93,08-01-2024
+451,3d2aef20-2b41-48c4-893b-edec28e80a06,Web Development,Web,60,84.15,22-04-2024
+452,60bb2e13-ae1d-4413-9405-2bea7817becf,Python Basics,Programming,97,99.21,22-05-2024
+453,1335409e-5327-47ed-8dd3-b25894ce44a4,Cloud Computing,Cloud,50,91.62,25-04-2024
+454,e4ae9672-4b98-4aa2-8a4d-846ee1ca46d1,Data Science 101,Data Science,93,52.23,15-06-2024
+455,862e6b88-a9d8-4b18-ab61-ab66530a1aba,Cloud Computing,Cloud,175,79.64,27-06-2024
+456,947c1c46-6b22-4e98-8064-9e401b3d2f05,AI Fundamentals,AI,36,76.17,08-03-2024
+457,ae3d0ac8-fff2-4f8b-949d-bbb1e70e6777,AI Fundamentals,AI,170,82.13,01-05-2024
+458,87b1b4d6-f4b5-4888-b3e4-4f905e7b5c08,Python Basics,Programming,137,98.77,11-03-2024
+459,ba4b6145-52ae-4019-a4ec-5b28de2568dc,Web Development,Web,48,89.04,27-06-2024
+460,495e9d1b-473c-4ce4-b06b-4eb5e00c5b51,Data Science 101,Data Science,13,94,24-06-2024
+461,e5343dc3-eed2-4722-bfc7-20017ec2aca8,Web Development,Web,152,88.85,03-04-2024
+462,645bbdbf-755c-434b-9652-89164c6ca0c0,Web Development,Web,82,73.49,27-02-2024
+463,1670d4bb-079f-4c66-aac1-44e96707e44f,Python Basics,Programming,59,63.9,29-04-2024
+464,d7b0fffe-2454-4db7-a0f0-a0605655a318,Cloud Computing,Cloud,121,57.15,22-03-2024
+465,5196bf68-fe18-4bff-90b4-d0bea5800b68,Cloud Computing,Cloud,156,72.48,16-01-2024
+466,cf5685fa-4a30-4120-964c-81211e2dd334,Data Science 101,Data Science,42,51.86,17-03-2024
+467,dc0f3255-01a1-4c62-91b5-3ddee90e1e73,Python Basics,Programming,158,94.5,17-05-2024
+468,624fe2ef-4737-454a-bc85-2d2223035680,AI Fundamentals,AI,10,70.34,08-04-2024
+469,2d8620eb-3068-48db-b812-82554b67e9c9,Data Science 101,Data Science,149,77.78,27-05-2024
+470,aa0a2215-9206-4da6-885f-20d484d4a77d,Web Development,Web,104,83.38,28-03-2024
+471,6f7ee67a-1a14-428c-b745-8554b69ef592,Web Development,Web,112,77.33,23-06-2024
+472,49c2138d-1480-405f-b7c8-23442beb9342,Cloud Computing,Cloud,73,58.71,09-03-2024
+473,2a187b37-af77-480d-90ef-04d65d981bf9,AI Fundamentals,AI,39,68.35,06-05-2024
+474,aa6eba94-eb1b-4df4-b957-85fae2375648,AI Fundamentals,AI,52,92.17,10-06-2024
+475,d903bb1b-aa19-47f3-8154-7d766934a511,Web Development,Web,44,70.6,27-05-2024
+476,2f3b7468-984a-4afa-8a77-762382d8c22e,Data Science 101,Data Science,100,95.27,02-03-2024
+477,87b7940e-9d6f-432c-a42d-71d26b330b96,Web Development,Web,77,57.31,10-02-2024
+478,a9e698a6-3af0-4ba6-b709-b964bc9316b2,Cloud Computing,Cloud,39,64.04,17-03-2024
+479,5cdd7a6e-e202-4e4f-9d84-9d8fd6c9b6cd,AI Fundamentals,AI,119,71,12-01-2024
+480,1c016422-4ed6-4ec1-8329-a6dd65bfe705,Data Science 101,Data Science,150,59.48,14-03-2024
+481,c373483e-2e9f-4227-bd0f-59bae1a29534,Data Science 101,Data Science,172,91.7,20-01-2024
+482,72d6248f-bd6b-4706-acf8-4bf505bfc7d0,Cloud Computing,Cloud,38,72.81,05-03-2024
+483,00e0a7eb-f0fd-4684-9a6b-3bf9883a3817,Cloud Computing,Cloud,48,57.27,05-06-2024
+484,be27c5ff-c66b-48a4-92dd-eb1ecc5899dc,Cloud Computing,Cloud,33,60.76,24-04-2024
+485,e3bae593-05ae-40a9-99dc-0570bb3b0a14,Python Basics,Programming,6,65.15,16-03-2024
+486,410493cf-b1c9-4eca-ab94-8967c4b41d0a,Python Basics,Programming,149,69.41,16-05-2024
+487,ac399635-043d-4020-83e8-70fc8917fd24,AI Fundamentals,AI,18,66.08,12-04-2024
+488,dcbfae21-5513-4a5d-96e8-53ad9179e621,AI Fundamentals,AI,21,95.32,23-04-2024
+489,97e92166-14d7-4297-8707-5f2f0040c628,Web Development,Web,172,67.81,13-06-2024
+490,2831967c-5710-4f33-87ac-c87096bfdda4,AI Fundamentals,AI,33,85.66,19-04-2024
+491,1a6e259f-20b9-4429-abce-fec2808166d3,Data Science 101,Data Science,58,50.45,07-02-2024
+492,c8bad095-992e-4703-9097-4fc13959071e,Data Science 101,Data Science,121,73.59,23-01-2024
+493,0951db6c-a08a-4f81-89e5-9698ed2a76a2,Cloud Computing,Cloud,121,89.15,07-05-2024
+494,c20bc2fd-81a5-486a-94fd-e1474d999c8c,Cloud Computing,Cloud,23,80.96,08-06-2024
+495,1a8a099d-5cab-454c-8c12-a4d66667d596,AI Fundamentals,AI,168,71.2,27-06-2024
+496,c3406b90-45a6-44f4-8119-1f73f27ccd44,Python Basics,Programming,32,66.51,05-04-2024
+497,d2570027-b1b7-4120-a10a-628c4547cd24,Python Basics,Programming,130,66.87,07-03-2024
+498,12615eb4-2dec-4a05-9301-45021bca7ee3,Cloud Computing,Cloud,159,63.7,04-02-2024
+499,c3df84f7-7dc3-4344-bb5b-957e7e326427,Web Development,Web,26,58.76,01-02-2024
+500,5a9fa0e5-8fda-4171-b180-eb21da04bcf8,AI Fundamentals,AI,20,76.03,04-05-2024
+501,dc853bb1-b4a0-4be5-a847-d60c78dc14e0,Cloud Computing,Cloud,10,70.1,02-05-2024
+502,ee60d942-297c-4c9d-8d6d-e2573621f921,Data Science 101,Data Science,56,87.44,27-06-2024
+503,077a0ade-68db-4394-b9f7-a12d65baa75d,Web Development,Web,111,65.96,27-04-2024
+504,94a5d297-5a8c-43e7-85a6-3ee6cf4531a2,Cloud Computing,Cloud,27,60.78,02-04-2024
+505,59922e8d-b2ab-4a76-a426-e1fc731d405c,AI Fundamentals,AI,146,77.18,01-05-2024
+506,458b3633-6957-4009-a94f-d16f851b565d,Cloud Computing,Cloud,13,83.7,12-02-2024
+507,4a6acf97-34fd-43e8-98ec-f7d92b445dc0,Data Science 101,Data Science,13,74.3,31-03-2024
+508,59411f94-96ba-4657-a4f8-f701fe705dfa,AI Fundamentals,AI,83,89.14,29-05-2024
+509,6446cd35-238f-4cde-938e-11a8653285a2,Web Development,Web,178,72.31,17-06-2024
+510,f04b7883-581a-4fef-b6f9-1436fda7ebf5,AI Fundamentals,AI,58,97.58,10-03-2024
+511,3dc1fc4f-7b1f-4684-8870-d0e846cecffa,Data Science 101,Data Science,109,59.27,10-06-2024
+512,077416e7-4702-4276-bba1-144c9cf6e62b,Cloud Computing,Cloud,172,97.12,15-06-2024
+513,7c738243-eb27-4d2a-8f47-ba47e45cf42a,Data Science 101,Data Science,95,88.09,24-06-2024
+514,b8787cfc-60d3-4f60-9566-429c2ff4335d,Web Development,Web,178,97.48,15-01-2024
+515,530ddbc1-479c-4643-9f2c-17d4e7157911,Web Development,Web,22,88.68,22-01-2024
+516,bde25a35-686e-41bf-87ab-057efcd2b57f,Data Science 101,Data Science,27,68.51,21-01-2024
+517,f1e2fbd2-0fad-4cc0-be15-598af8a7d234,AI Fundamentals,AI,57,59.51,28-01-2024
+518,0cb0f52a-7bb9-4736-ac2c-9776b6c37ed7,AI Fundamentals,AI,89,74.2,13-05-2024
+519,03634494-bb07-4c04-b656-af39d45b2f89,Web Development,Web,150,55.48,24-03-2024
+520,536e6e11-981f-4230-ae39-2e126436808e,Python Basics,Programming,15,61.74,27-05-2024
+521,c208ca6c-9cd5-4d44-b0f6-86cea0f209c4,Python Basics,Programming,144,93.51,02-03-2024
+522,6e669cf1-798c-43e8-a2c0-3c70eff7df65,Cloud Computing,Cloud,74,88.2,21-02-2024
+523,125e19dc-e47b-40db-9242-241f4081bb09,Web Development,Web,127,66.91,29-03-2024
+524,5afe1b7e-5035-44d6-896c-6096347ba69a,Web Development,Web,129,95.37,05-06-2024
+525,afa45efa-96b5-4572-b462-b290ecdf770e,Web Development,Web,173,80.59,12-01-2024
+526,12779f38-6977-4094-a942-315a722ec8cc,Web Development,Web,37,98.65,28-01-2024
+527,f2f51bfd-c479-4e26-81fa-7b079ac9ac1b,Cloud Computing,Cloud,164,84.37,11-05-2024
+528,59036841-87dd-47f7-acdd-da5b61b2b2d6,Python Basics,Programming,179,90.99,20-06-2024
+529,96715bde-e2fd-4b3e-8a19-46e58a4d4e10,AI Fundamentals,AI,7,51.48,22-05-2024
+530,3c78ab87-5fda-48d5-a1c9-949113b6fd44,Web Development,Web,151,92.56,26-03-2024
+531,3282395b-9b62-4981-a8c6-aa09168d8e66,Cloud Computing,Cloud,92,60.03,03-04-2024
+532,6124398c-d83b-43ae-9f3a-4f6ba949c288,Data Science 101,Data Science,23,69.8,08-05-2024
+533,a0894718-5d32-4774-a23b-3ef3a74e80dd,AI Fundamentals,AI,75,59.65,22-04-2024
+534,c6169254-2cd8-42a5-b9a3-efe57680804a,AI Fundamentals,AI,91,81.5,16-03-2024
+535,ce8a3724-6042-4140-8e94-82cad4b9a5b6,AI Fundamentals,AI,179,88,14-04-2024
+536,6ec9e8e0-0b20-40fb-ab6e-cd9da5213cff,Cloud Computing,Cloud,135,99.69,08-04-2024
+537,c94f420d-62ea-48f4-855a-361988a17620,Python Basics,Programming,5,69.1,15-04-2024
+538,bfc5a670-ec55-4a8f-9e75-9d8a1ac868ff,Python Basics,Programming,28,80.11,14-02-2024
+539,5abf2e1f-deb1-4366-8ab2-5eddb13f8320,Data Science 101,Data Science,46,79.8,18-05-2024
+540,8d800bfc-0ab8-48d2-804c-e6c121c18f84,Python Basics,Programming,150,63.7,19-04-2024
+541,f6bd5b5e-1d91-4b79-a612-8911173fc3cd,Data Science 101,Data Science,30,95.97,29-02-2024
+542,5f7fdbf7-4526-4a6d-8f99-03a352f720f6,Python Basics,Programming,59,88.08,24-04-2024
+543,451b46bc-05f5-4d80-9522-44790fcf4692,AI Fundamentals,AI,179,71.42,17-01-2024
+544,b12d890b-9ea9-4a67-9c7e-6311b56e5dea,Data Science 101,Data Science,97,65.05,20-01-2024
+545,854605da-de23-47d4-b23d-8657287e6dd0,Web Development,Web,43,73.19,19-02-2024
+546,ee617256-3535-4144-bf7f-1f329b28752e,Web Development,Web,127,91.35,11-05-2024
+547,4d448d51-e6e8-48ea-9a20-11b3a3530f38,Data Science 101,Data Science,163,89.23,31-03-2024
+548,cc5796b3-ca8a-4561-976f-a6b44220ed33,AI Fundamentals,AI,103,52.64,23-03-2024
+549,2a426a0a-39ce-4adb-b354-299d0598b3f3,Web Development,Web,129,95.64,09-05-2024
+550,11fa819b-eb3c-45e9-8a89-9e0293fe9bde,Data Science 101,Data Science,48,86.65,07-06-2024
+551,bd657e77-5d80-4e1e-bc62-d7ef5dd6f85f,Cloud Computing,Cloud,37,61.07,07-03-2024
+552,24d212b4-3a97-4fa3-aacf-cd84b469ccb7,Cloud Computing,Cloud,125,52.84,03-01-2024
+553,bfe5b442-efe1-4852-b43c-364a9175ece7,Python Basics,Programming,107,64.33,21-04-2024
+554,af44f605-3c3e-4925-ab92-5cff6a88ddfc,Web Development,Web,19,75.12,09-03-2024
+555,c9248a72-7928-4c27-9fd9-ca2919926549,AI Fundamentals,AI,8,55.66,14-03-2024
+556,468a4690-934e-493c-a13f-beab31464ab3,Data Science 101,Data Science,123,71.02,29-02-2024
+557,f76fefbb-3f0e-4c60-92e6-e1f567d7c961,Data Science 101,Data Science,78,72.81,13-03-2024
+558,7217024b-fc48-43c1-96f7-f0d49735209a,AI Fundamentals,AI,145,92.67,17-02-2024
+559,36aba169-522a-4a84-8ccb-34aa460710e8,Python Basics,Programming,97,51.18,10-03-2024
+560,0c0e7f46-b2b1-46ca-aea6-5f5ccc72a9c4,AI Fundamentals,AI,143,80.24,21-02-2024
+561,d5270dd5-0ced-4c61-80a8-a7b72dcb776c,Data Science 101,Data Science,93,65.54,21-04-2024
+562,2ee7df41-6023-41a3-ab1a-37b1d60fdda4,Web Development,Web,65,57.24,19-03-2024
+563,f4d62d4a-32f7-4d5e-a2a9-24b884f1393a,Cloud Computing,Cloud,52,76.35,24-01-2024
+564,a3503ae2-40f6-4ceb-bc26-710bb24df453,Data Science 101,Data Science,156,67.12,29-04-2024
+565,54f6abf6-0699-496f-a5a1-60eb5fb61b5a,Python Basics,Programming,119,97.87,05-05-2024
+566,d52866b4-372d-49b3-8fab-646df050a018,Data Science 101,Data Science,152,79.49,02-03-2024
+567,3112ca18-c786-45dc-b6c8-cec6cf797112,Web Development,Web,87,93.49,13-01-2024
+568,0394c571-0e0c-47b9-ab5f-3d76d456fa3c,Web Development,Web,69,98.11,24-01-2024
+569,5b9b95fd-eff7-4a01-82b8-ae5d8a9c5452,Python Basics,Programming,28,64.41,08-05-2024
+570,c3088751-af9e-47ee-acd4-ddb1bd6138ff,Python Basics,Programming,175,82.11,08-02-2024
+571,4f178c22-8099-43e2-ae30-31dd2de50ca0,Cloud Computing,Cloud,24,60.98,20-03-2024
+572,c59629ed-43e0-4045-80c7-e7ab3628b1bb,Cloud Computing,Cloud,11,61.24,26-06-2024
+573,0907b3f7-ec72-4e03-8b3e-481d52a3952e,AI Fundamentals,AI,133,53.79,13-03-2024
+574,4a6b7127-5933-4a5e-8fb5-7f29581624ce,AI Fundamentals,AI,43,52.1,08-02-2024
+575,fc5e5220-de5c-4236-8e79-c700a4fb396d,Data Science 101,Data Science,72,82.25,27-05-2024
+576,ee41e964-6e13-4da7-baff-26b42b2f1628,Python Basics,Programming,168,88.25,28-03-2024
+577,8a49e726-f41c-41ac-b103-813490900ced,AI Fundamentals,AI,58,80.82,13-06-2024
+578,de174949-9083-4f09-9984-9f1ae9f87ebb,AI Fundamentals,AI,155,81.19,20-02-2024
+579,c0a12f98-992c-4f29-908d-190753bd7bd0,Cloud Computing,Cloud,165,90.16,14-04-2024
+580,74922731-41bc-4fef-8253-96890f497273,Python Basics,Programming,33,61.7,26-06-2024
+581,3fdbc438-9831-4555-adc4-69cd317acd2b,Data Science 101,Data Science,162,76.8,14-05-2024
+582,505a357d-4a07-4a8b-a25b-ef69f7e92220,Data Science 101,Data Science,102,84.29,25-02-2024
+583,72147b02-44ba-46e2-bc3c-c8ba81a1edbe,Web Development,Web,18,84.96,23-03-2024
+584,5036b650-47f3-4848-904d-8a6bd311851a,Web Development,Web,49,56.09,24-04-2024
+585,bc4925b9-f1c7-4ab2-9e88-5eba412aab7a,Cloud Computing,Cloud,10,94.63,06-02-2024
+586,3ae9ddd0-63ae-4f57-93d6-62ce2d0c6efa,Data Science 101,Data Science,44,75.93,24-04-2024
+587,858c58ff-48cb-4d9c-8204-435f6cdd63af,AI Fundamentals,AI,97,53.2,19-01-2024
+588,d43911b9-fede-45e1-bc3a-eefb777596b0,Web Development,Web,131,55.9,05-03-2024
+589,5e3fa7b3-0edd-4cb7-a693-0421cfc136dd,AI Fundamentals,AI,67,51.4,05-05-2024
+590,af20b000-4017-4bcf-bbef-29ddbc9c088d,Python Basics,Programming,82,88.36,17-02-2024
+591,2036d795-1719-40c5-b597-0dc7ab11d139,Web Development,Web,94,95.07,13-03-2024
+592,3ed4fdca-704b-4b76-8229-a738a17f9486,Cloud Computing,Cloud,128,95.73,20-04-2024
+593,99e2993b-f467-462e-9744-0cfaaac47a75,Cloud Computing,Cloud,70,75.69,28-02-2024
+594,b09d1290-6d0e-460a-b513-e7d70a333cbe,AI Fundamentals,AI,19,50.73,20-04-2024
+595,e1df519b-db8f-469b-8ccd-915942a3f3e3,Data Science 101,Data Science,127,87.85,09-02-2024
+596,04e63986-0b5e-4976-a64b-dca5c10e7ce2,Python Basics,Programming,31,65.02,25-01-2024
+597,ef11d5dc-6975-47bd-adf2-bdb83e7c70ff,Data Science 101,Data Science,159,73.51,04-02-2024
+598,340412a9-b442-44a9-bfd8-32e48660efeb,Web Development,Web,149,71.43,21-04-2024
+599,72b84a14-4815-4966-a05f-93577985c1a3,AI Fundamentals,AI,13,99.37,04-04-2024
+600,c6685bb3-cbe9-433f-81b8-627a9839eed6,Web Development,Web,66,66.96,29-04-2024
+601,53aad334-6278-4fff-83f3-0d7fe8836e8b,Web Development,Web,174,74.12,22-04-2024
+602,9453f5dc-479d-4ffd-8ebe-4ec137aa6da2,Python Basics,Programming,108,84.96,09-05-2024
+603,302866ec-c2bf-446f-b3bf-709776fb0b7b,AI Fundamentals,AI,122,95.87,27-02-2024
+604,046ae2a2-151e-4e85-8700-4caa8c1a0e81,AI Fundamentals,AI,22,67.85,13-04-2024
+605,d3909250-09a6-4aed-a02d-7939f24c9144,Cloud Computing,Cloud,14,77.05,06-05-2024
+606,ae184cf0-be5d-457c-ade4-c5f383dd29cd,Data Science 101,Data Science,42,75.12,21-03-2024
+607,4f92c962-9a97-4bf5-9826-306c27d60a04,Web Development,Web,138,62.46,05-02-2024
+608,7d6c5eb4-be32-4db5-a8a9-799e3d9d856c,Data Science 101,Data Science,33,91.51,03-02-2024
+609,be6ad0b1-cc93-4b04-a4b5-d0b98510aaac,AI Fundamentals,AI,13,83.52,20-06-2024
+610,731c15ec-a804-4256-aba1-5929a78031d2,Data Science 101,Data Science,172,80.06,18-04-2024
+611,a37eaf97-fe91-47b1-b734-0799df7ffc9b,Python Basics,Programming,121,98.42,25-06-2024
+612,46665521-0a9b-4738-8c35-4f48d2426f6a,Cloud Computing,Cloud,109,53.29,08-01-2024
+613,0392c572-c852-410c-b84a-0e069f2e53e4,AI Fundamentals,AI,175,87.43,22-03-2024
+614,0428deb7-d3d3-4089-b87d-0e2ecb14867d,Web Development,Web,73,52.49,04-05-2024
+615,03556495-56c5-4954-ac4c-0c5003cdf853,Cloud Computing,Cloud,25,78.34,07-03-2024
+616,34285f17-edaf-410e-8cfe-a364b39876a0,Web Development,Web,105,79.99,29-04-2024
+617,972681b3-9072-4ed7-bc90-e3c0496c601f,Python Basics,Programming,138,54.59,16-06-2024
+618,8e4754f1-101d-43c6-bd5c-ba0374c41924,Python Basics,Programming,51,90.22,19-02-2024
+619,db452198-41be-45c4-bbc1-0492caeb59e8,Cloud Computing,Cloud,52,65.29,07-05-2024
+620,e985f3a5-b6e7-4906-bbbd-f5dd02fe5583,Web Development,Web,142,91.02,16-03-2024
+621,94f5ce15-e628-4f7a-9c69-f8f99f203f43,Cloud Computing,Cloud,90,82.14,01-06-2024
+622,8b5ba0c2-6bac-46f7-b03f-6159a9d30d2e,Cloud Computing,Cloud,172,59.91,11-05-2024
+623,fbfd165a-12ea-406f-9718-0a726d8041b7,Cloud Computing,Cloud,149,59.14,23-02-2024
+624,995b50f7-c58a-4700-bfd4-704b7d4580ad,Web Development,Web,130,86.38,08-04-2024
+625,aa49da0a-a8a5-4af8-a6a7-7afa38e84bf3,Data Science 101,Data Science,23,89.93,04-04-2024
+626,72894a5f-61ee-4fa2-8c07-9fae11e0e663,Data Science 101,Data Science,57,94.92,13-01-2024
+627,e2114ac8-ce24-4388-9c33-8c0819750ddb,Python Basics,Programming,46,75.2,23-02-2024
+628,b21c4670-f8c4-4921-9f13-e6366a3cc74c,AI Fundamentals,AI,47,59.33,14-01-2024
+629,d99cc48a-38ae-423b-afff-8eaadc8e84c6,Data Science 101,Data Science,38,69.43,18-01-2024
+630,f334d1e1-ccc1-4b41-bf1b-a5c07056cad0,Data Science 101,Data Science,46,55.47,26-03-2024
+631,3c9b4a39-4814-43d5-a920-f5a05dc2f8ac,Data Science 101,Data Science,106,75.97,08-04-2024
+632,3772cd12-8020-4b6c-a05c-968b5da75428,Cloud Computing,Cloud,14,94.68,21-06-2024
+633,f726ec4b-5c5a-47d3-bd51-de8c774060be,Cloud Computing,Cloud,174,62.4,18-05-2024
+634,f9e1c6c2-64e8-4568-a2bf-1f400e41a87e,Web Development,Web,26,75.18,06-05-2024
+635,8c077ec2-ebe8-4393-a473-e0920e1dce0b,Data Science 101,Data Science,57,70.43,29-01-2024
+636,63a0bfae-b0f9-4a9f-8ec0-c16809f324da,Web Development,Web,108,73.47,12-01-2024
+637,f17813b4-fe56-4438-ba51-9dd45c602639,AI Fundamentals,AI,154,71.59,30-01-2024
+638,31623ace-597e-4d0c-9a0b-a4f57857a145,Python Basics,Programming,143,83.78,09-02-2024
+639,1f487aa8-4cf1-4037-b71f-a4508c2bdfcd,Data Science 101,Data Science,26,80.54,11-04-2024
+640,a5efeb01-4367-4aac-9f48-810144487933,Cloud Computing,Cloud,58,51.6,23-01-2024
+641,6d2b9fa9-5d4c-46f0-9a5b-220a45fad745,AI Fundamentals,AI,156,84.85,26-03-2024
+642,1525f700-d605-4a24-b62f-66140485bc31,Python Basics,Programming,118,63.96,31-01-2024
+643,af0c8fa4-c08b-4115-b35e-3775c2e4a248,Web Development,Web,177,74.36,15-03-2024
+644,08fe3307-34a7-4cfb-9acc-b2d16d3d7e5a,AI Fundamentals,AI,163,73.92,31-01-2024
+645,997cffb7-5af0-4545-8355-31d2d05a7b14,AI Fundamentals,AI,59,93.07,30-03-2024
+646,30a89439-3b96-49a8-8ead-c1595884f6e0,Web Development,Web,132,63.86,07-05-2024
+647,89b70d34-e301-46c3-9118-b04fe7ac4895,Web Development,Web,133,81.57,15-01-2024
+648,fb48dcff-cbb7-40e8-a736-346a137fc88f,AI Fundamentals,AI,110,90.07,23-04-2024
+649,7452f2a5-1842-44f3-88de-9e425344bc1a,Python Basics,Programming,124,64.68,04-04-2024
+650,c6741d21-d39d-4a12-bccf-10c587912bba,Data Science 101,Data Science,32,66.27,09-06-2024
+651,775607fa-9f07-4329-8fba-8614fb593665,Data Science 101,Data Science,67,78.88,10-06-2024
+652,97956f77-2b6d-4e97-9de1-488e6d5e7be7,Cloud Computing,Cloud,89,80.4,03-05-2024
+653,828892c3-a231-46ea-aa06-76c63825cfd9,Python Basics,Programming,106,87.82,22-01-2024
+654,2f1c65e8-a63a-4380-bf51-ca421085bfcd,Cloud Computing,Cloud,154,81.75,24-03-2024
+655,d9b190d2-32d4-4c54-8f14-d166ba706313,Web Development,Web,58,64.93,16-06-2024
+656,6838c27d-de1f-4a9c-af9e-654e36205061,Data Science 101,Data Science,178,77.07,16-03-2024
+657,ba83881f-7e14-47e4-9a88-fd41cca3773b,Data Science 101,Data Science,96,88.72,23-06-2024
+658,0c8110b1-f7d6-4fc6-b3b6-e06dd1eb7d36,Web Development,Web,147,50.51,29-01-2024
+659,c805993d-a064-4d51-bead-e0a928e3d4fe,Python Basics,Programming,94,83.17,24-05-2024
+660,0875505e-eea8-425a-8cd0-84567810f932,Cloud Computing,Cloud,66,95.92,28-01-2024
+661,7192bbb7-0696-4360-b171-ecb9e31bd9df,Web Development,Web,170,95.39,11-02-2024
+662,b77b6b2c-2b56-4ec0-b292-740e9d3dc6e3,Python Basics,Programming,15,67.9,26-01-2024
+663,e428c701-1111-49bd-b67c-4ddf1adad84d,Cloud Computing,Cloud,92,88.66,15-03-2024
+664,d3d7c909-3496-4708-be5e-ef7bd2aa8d59,Python Basics,Programming,85,53.31,16-06-2024
+665,81d9b199-3469-4aae-97f7-4dd3b321d050,Web Development,Web,53,83.41,26-02-2024
+666,b7dabfe9-686c-4671-a0ab-e1f7e16cf842,Web Development,Web,98,64.01,02-06-2024
+667,086e391d-c699-4cd2-9b51-3a62f19c2bdc,AI Fundamentals,AI,27,70.18,18-06-2024
+668,39dc8b1a-6817-4f19-8942-2b5755dfb371,AI Fundamentals,AI,172,71.49,19-05-2024
+669,ba79bba8-3e3f-4511-86c0-a71fddde2730,Data Science 101,Data Science,17,53.81,12-05-2024
+670,4d2ce7d0-01ce-4414-a039-78f53dd7b88a,Cloud Computing,Cloud,60,66.45,17-03-2024
+671,1bc15efc-e14b-45a7-b193-8f82e529d9fd,Cloud Computing,Cloud,145,66.35,17-01-2024
+672,54649c11-fa25-412f-acee-1e4505b3442c,Web Development,Web,42,69.83,11-01-2024
+673,bac48c86-7f11-468c-9f3b-42fe192af19f,Cloud Computing,Cloud,93,55.39,09-04-2024
+674,18068a9b-8b07-4c38-9fb0-35cb09b195f6,Web Development,Web,163,75.74,18-01-2024
+675,b0ad9e31-38f0-4f33-842f-b6e8a4eee439,Python Basics,Programming,21,67.46,21-05-2024
+676,f333050c-1987-4984-b6f3-ba850d7f33ba,Cloud Computing,Cloud,21,62.05,13-02-2024
+677,365fc350-8eca-4e81-960c-dd0d4d0089cb,Python Basics,Programming,98,53.47,14-01-2024
+678,e7a9a364-a7f9-4c2b-971b-807ac331c54f,Python Basics,Programming,7,81.14,06-04-2024
+679,a6b912f2-c139-4976-a022-39b68e60ba00,Web Development,Web,140,94.3,21-02-2024
+680,b23bec67-3c20-410d-aeb4-53d51508f799,Data Science 101,Data Science,6,69.83,20-01-2024
+681,e689f2c1-0d5a-4ef7-8e8d-f86e39e0ab4b,Python Basics,Programming,140,53.25,26-02-2024
+682,dc8e182c-47f1-45f6-959c-7092a2c41ee7,AI Fundamentals,AI,85,94.06,21-01-2024
+683,f5724f07-846c-410f-abe4-cebc78e31e22,Web Development,Web,137,60.19,20-04-2024
+684,3560661a-951a-484a-b24d-e2db1ef3f847,Cloud Computing,Cloud,116,91.93,19-02-2024
+685,425042ac-ba7e-4bc9-8015-13dcf0c0927a,Python Basics,Programming,67,79.97,09-05-2024
+686,fb8ca9cd-f433-4ca4-881e-e40f92596f72,AI Fundamentals,AI,52,97.03,05-04-2024
+687,a7bfd397-5991-4d75-9d49-298667433283,Data Science 101,Data Science,127,91.78,10-06-2024
+688,f5eb6b3c-f928-4af7-a02e-ce42f3991355,Cloud Computing,Cloud,24,74.63,24-02-2024
+689,345a460d-23f7-4667-a93d-b5378a4bcf39,Cloud Computing,Cloud,5,68.53,06-03-2024
+690,cd96a18e-e3a9-4cc0-a570-419084196158,Data Science 101,Data Science,83,52.64,13-05-2024
+691,2ee0012f-72c2-4280-b977-5aa79f1bd417,Python Basics,Programming,92,97.94,19-01-2024
+692,deb3bb0e-a788-4c41-8a8b-db5b0aa2244c,Data Science 101,Data Science,103,68.11,27-01-2024
+693,6990f86a-ff45-4071-b2c2-26ff71b494d2,AI Fundamentals,AI,92,80.13,06-05-2024
+694,c13b2169-0a90-49ce-ac00-bce0df838922,Cloud Computing,Cloud,82,77.2,27-05-2024
+695,f0de7e0a-4083-46ee-97c9-910d66dc91b8,Cloud Computing,Cloud,43,70.04,13-03-2024
+696,d82fbdab-87bf-4ddb-bd35-0131c07dc661,Web Development,Web,92,87.64,28-05-2024
+697,fa51524a-998d-4b21-9980-975b7cc4e4e8,Cloud Computing,Cloud,161,62.1,12-01-2024
+698,aee24c58-832e-4a3c-abeb-4282ad196bf1,Cloud Computing,Cloud,111,61.98,11-04-2024
+699,bf705c7c-e0d3-4849-89c8-76e9bea5eda7,AI Fundamentals,AI,104,78.89,13-06-2024
+700,756ccf20-14b2-43eb-8143-1b884127cd25,Web Development,Web,36,80.73,04-01-2024
+701,4970d8e5-f82a-48fe-9033-80f09ecc62bd,AI Fundamentals,AI,100,57.6,16-05-2024
+702,6a9c1090-2cb0-42ea-8770-1c61e0dc6d4f,Python Basics,Programming,50,67.43,25-01-2024
+703,167593b7-c020-471b-8051-7eb85276547b,Python Basics,Programming,137,89.84,03-04-2024
+704,8fb6b3b7-044d-4519-b8ac-5309c45e3569,AI Fundamentals,AI,131,62.49,14-06-2024
+705,5e9e5df5-f18d-4a83-85d8-c127120386ca,Cloud Computing,Cloud,162,72.1,29-05-2024
+706,c68004eb-2ab1-4be6-bb08-d77b1e806d85,Cloud Computing,Cloud,19,51.81,03-02-2024
+707,e6eb5dd6-c200-4862-adad-41e8b9217005,Cloud Computing,Cloud,151,77.92,29-02-2024
+708,ca3d4fab-7c12-4da2-b595-a08e1b30056d,Python Basics,Programming,133,87.42,31-03-2024
+709,b414dafa-6f21-4047-b7cd-80eaafec08ef,Data Science 101,Data Science,48,53.45,29-03-2024
+710,995a1025-d7b2-492e-a0d6-ddc6fa94a066,Data Science 101,Data Science,63,55,05-02-2024
+711,b93b7830-40f8-4ecc-b738-a2ffc0e25681,Data Science 101,Data Science,147,77.61,19-05-2024
+712,d44ea5b0-4e20-422f-8e88-7c743a85eb39,Data Science 101,Data Science,175,65.98,11-04-2024
+713,96f3438d-a2a8-44a0-a240-849adac3a6f6,Cloud Computing,Cloud,61,87.91,07-03-2024
+714,62ef7c4a-9c73-4f44-8576-bb95755b4441,Python Basics,Programming,58,80.67,09-04-2024
+715,7cd36dd7-7e81-4fd9-b8af-37d6da6705d5,Cloud Computing,Cloud,172,52.7,27-05-2024
+716,a42a75b3-5e89-43fc-98f8-fa8c4043c028,Web Development,Web,74,88.49,24-03-2024
+717,50ff28f5-7f51-44d9-93b8-b63317899c0e,AI Fundamentals,AI,18,97.95,02-04-2024
+718,480e7e2c-b865-4fb6-b2f2-2725e72b8254,Python Basics,Programming,62,68.56,06-03-2024
+719,6161cf8a-97cd-46fe-b16a-dd37ba1f19ed,Web Development,Web,176,77.91,25-04-2024
+720,130963e3-1d52-488d-850a-4a196e229900,Cloud Computing,Cloud,171,52.14,12-03-2024
+721,992a95d4-be6e-4dc2-815f-c317336bed7e,Web Development,Web,99,59.98,13-04-2024
+722,99f97601-f8bf-4ef6-abf3-6b7472d3b699,Web Development,Web,75,50.69,05-04-2024
+723,068acc84-34e6-4908-b585-0b1c41653877,Data Science 101,Data Science,12,84.18,23-03-2024
+724,d1a4b455-5436-4c88-9de3-dc919bc92c9d,AI Fundamentals,AI,165,99.9,27-06-2024
+725,5d901079-cf7a-46b7-b971-8ebe61c79f86,Python Basics,Programming,170,96.74,03-03-2024
+726,7f96aaff-e1b1-4253-a662-354287a3fd05,Cloud Computing,Cloud,52,80.85,08-01-2024
+727,b70bbf2d-ecfb-4cdf-933c-cd03543f649c,Data Science 101,Data Science,148,55.69,31-05-2024
+728,62a429e3-aeb0-4fe4-af11-4e66ad3407e6,Data Science 101,Data Science,75,95.94,20-05-2024
+729,a7c9d782-95a5-4c73-b5c1-5d99c3971c72,Cloud Computing,Cloud,39,84.35,15-06-2024
+730,c5101a37-dad3-4d54-a6d1-373c3cc2fd62,AI Fundamentals,AI,16,68.53,11-01-2024
+731,d10cbab9-3671-4f14-a18e-6143cdc1d698,Cloud Computing,Cloud,137,79.6,24-02-2024
+732,ef82da68-9d80-4100-b5be-7af83415fb6a,AI Fundamentals,AI,31,54.75,27-06-2024
+733,dd5a4bb6-4012-461e-8e54-4fac394ae798,Python Basics,Programming,112,63.62,05-04-2024
+734,51a83bb6-5ef7-471c-ba21-066f79b8e69d,Data Science 101,Data Science,15,88.07,02-05-2024
+735,cd638f19-34c7-4467-b392-e84947c9b695,Web Development,Web,160,89.85,24-01-2024
+736,6310f7e5-9167-474f-81c5-768970bec3df,Python Basics,Programming,104,50.01,14-01-2024
+737,d2fdbfa8-e982-4ba7-a1b3-76cc8a7b6eb8,Data Science 101,Data Science,25,92.44,20-02-2024
+738,8d5b866b-7f74-4ccb-990c-822e78eab681,Data Science 101,Data Science,120,67.37,24-01-2024
+739,dea14f94-08f5-4f31-bc9a-ec836c97504a,Data Science 101,Data Science,105,73.33,13-06-2024
+740,2d5f307d-254b-4a2e-b295-182252e433c0,Data Science 101,Data Science,71,64.04,25-01-2024
+741,087ad2c8-2f26-4d1e-9ca6-e4cd57805e6d,AI Fundamentals,AI,115,94.41,16-01-2024
+742,05860780-4ec3-45f4-9793-5b2527323dc8,AI Fundamentals,AI,160,56.84,14-05-2024
+743,995564b9-566d-4b7b-9622-5f3ed5e65257,Python Basics,Programming,46,71.88,13-04-2024
+744,6760ddbd-d7c6-4012-aa01-f13a8bc9199c,Python Basics,Programming,176,73.39,25-02-2024
+745,92e2670f-1251-47cc-8244-ebac5a5bfa14,Web Development,Web,125,74.84,15-03-2024
+746,491927ef-d9d8-4089-b80e-3dfcb39c9cc5,Python Basics,Programming,100,69.44,26-06-2024
+747,cc2a0af7-fc0b-4625-b8e2-fd1a74dc2063,Python Basics,Programming,137,66.96,10-02-2024
+748,04e13ebe-37e7-4391-82d9-497d78a810c0,Data Science 101,Data Science,24,94.76,02-05-2024
+749,41fcde10-5b27-4043-81c3-70c1a2e4605c,Cloud Computing,Cloud,79,54,13-03-2024
+750,75a5f787-d326-4115-b040-bd54fb0a184d,Web Development,Web,38,74.92,08-03-2024
+751,fc7e4c49-7ee0-4620-a3db-37a02c99803a,Web Development,Web,167,69.57,20-01-2024
+752,fd51ae9a-b94a-4df0-a1ae-8335a0091ba6,Python Basics,Programming,54,77.07,24-04-2024
+753,8c055668-4b0e-4f26-b3b0-6b612d5d5f49,Cloud Computing,Cloud,164,64.53,11-03-2024
+754,3b99d130-5169-4f50-ab0a-2f1c392ac578,Web Development,Web,37,76.4,15-01-2024
+755,beb73dcf-6845-4f65-8d5e-f4d16166f581,AI Fundamentals,AI,175,68.92,30-04-2024
+756,349e72de-eed9-400b-89a9-96fc7b017651,AI Fundamentals,AI,103,89.03,23-06-2024
+757,9681408a-cfe3-42a5-85ae-2c5c2d58e68f,Data Science 101,Data Science,128,97.28,09-06-2024
+758,299f1074-d8d9-44eb-aa15-e2b514281b88,Data Science 101,Data Science,100,50.8,03-03-2024
+759,150fc7ef-b3eb-4a3e-a8e8-e4d5f1ae66a3,Data Science 101,Data Science,80,98.81,07-03-2024
+760,5d371018-efc4-4007-b07d-ee6dc314f515,Web Development,Web,44,77.87,03-02-2024
+761,e0a3727f-80fc-4b76-8615-d8cd1deeae40,Python Basics,Programming,114,59.29,27-04-2024
+762,9e58c542-bfcf-4b9a-a7e9-22afb8f75ce0,Cloud Computing,Cloud,36,67.79,01-01-2024
+763,e09583ad-2682-4028-abd3-4c5f2e152d07,Python Basics,Programming,23,67.28,10-02-2024
+764,23a236bd-deb3-4fbe-a81a-f2f1e74342c0,AI Fundamentals,AI,48,89.67,06-06-2024
+765,81f5d6b9-c575-4e65-b15e-dfa8cfc017d1,Web Development,Web,41,72.64,05-05-2024
+766,7b903485-2cc0-409a-bf54-8db16e254730,Python Basics,Programming,71,96.84,08-04-2024
+767,2dbae9e3-88da-42a8-b9dd-8bff69d422e5,Data Science 101,Data Science,60,98.8,04-04-2024
+768,91440757-4eac-4b89-8ad7-0e41c3292099,Data Science 101,Data Science,99,62.97,07-01-2024
+769,5bca25a1-49d5-40d4-bb0a-6fa0fcbf90ba,AI Fundamentals,AI,179,50.93,08-01-2024
+770,54204d06-0a6f-437d-84c4-4a45ad623b0a,Web Development,Web,178,83.89,05-04-2024
+771,246fd3bd-dcca-44aa-a10a-ef284208f12b,Python Basics,Programming,16,67.22,04-01-2024
+772,1f732a8f-0b55-4931-8ae5-f6b2ea247799,Web Development,Web,124,80.37,24-04-2024
+773,7efea119-6b55-48d1-9e72-d66763bba32e,AI Fundamentals,AI,109,99,05-03-2024
+774,a3807257-4cd3-4907-8677-0130a6a44997,Python Basics,Programming,25,59.22,16-01-2024
+775,61629de5-1fbc-4024-ba62-6d2296588bbe,Cloud Computing,Cloud,131,77.26,04-02-2024
+776,0d475815-bda0-4d58-bee4-76628455ac28,Python Basics,Programming,82,63.05,20-06-2024
+777,ead9c976-7241-4625-82e5-f5519264c0f3,Web Development,Web,18,91.92,01-02-2024
+778,37fb4a31-b2b5-4e70-a418-3d183908f360,Python Basics,Programming,110,86.46,09-03-2024
+779,ee477408-e82c-4766-83d0-824eb5483e00,Python Basics,Programming,144,90.24,01-05-2024
+780,86128c06-ae00-40ff-92eb-eb3aa39f898c,AI Fundamentals,AI,28,86.27,19-01-2024
+781,625bcaac-1f8c-4b93-9560-30f545e3e2b1,AI Fundamentals,AI,85,54.8,25-03-2024
+782,d1f5d99a-e9e1-4b5b-bbae-4167f22e96b7,Web Development,Web,103,55.66,16-05-2024
+783,b7e4b702-598f-4b5f-bd0c-1075154f4042,Data Science 101,Data Science,32,93.04,02-05-2024
+784,f0f21025-52e5-4ba4-9b02-1be0e0e6b0c5,AI Fundamentals,AI,99,67.04,25-01-2024
+785,9ab2a550-8c7b-4262-90e6-8730235be29e,Data Science 101,Data Science,144,66.83,17-02-2024
+786,1a332379-dbf7-4252-867c-fdb47d30466f,Python Basics,Programming,85,70.85,21-06-2024
+787,a00dc942-d007-4d74-ad42-5911384b0f6e,Python Basics,Programming,74,91.71,11-03-2024
+788,efe6aaa1-1374-4bc0-a9d5-c9068c20e52f,Python Basics,Programming,155,77.18,04-02-2024
+789,e6a6a95d-0d4e-4fd3-9183-8e6b3c12ec7f,AI Fundamentals,AI,139,63.58,30-01-2024
+790,d9bd495a-457b-482a-b930-b2ff47e297f6,Python Basics,Programming,161,96.01,19-01-2024
+791,cdc92ec6-c7c6-4545-b19e-d57bc44c71fa,Python Basics,Programming,136,77.43,25-03-2024
+792,269ea687-1cda-4954-8a3c-558081f699bc,Python Basics,Programming,145,94,28-06-2024
+793,86fee631-0549-444f-91f7-7bfd7a5a3c87,Data Science 101,Data Science,46,65.06,07-06-2024
+794,41b3823d-06b9-4472-914c-79b4fed440a7,Cloud Computing,Cloud,95,68.77,09-03-2024
+795,f926bc3f-a2a9-4faa-b264-36cae6dbc199,Cloud Computing,Cloud,46,84.48,16-01-2024
+796,37fd655b-bc35-4fc5-9956-0e6aebed43be,Data Science 101,Data Science,60,80.82,31-01-2024
+797,037b0492-070a-4059-9a32-20a8f605ae48,Data Science 101,Data Science,93,73.01,16-04-2024
+798,33dbb883-aa5f-466c-92a0-91a458d1c096,Data Science 101,Data Science,167,51.9,02-01-2024
+799,24e26c95-6de6-4322-aad4-14e3f859c8cf,Python Basics,Programming,125,78.95,01-03-2024
+800,c0366c62-db39-45f7-8155-ef9536b3e0e2,Data Science 101,Data Science,71,83.12,15-01-2024
+801,77019162-ee43-4e48-ad25-865fbef21545,Python Basics,Programming,52,84.45,08-04-2024
+802,b01ff91a-89c0-490e-97bc-5918f8c1fdbd,Cloud Computing,Cloud,102,61,21-04-2024
+803,f5d5f209-2a54-4cd0-af02-e2fe872d9d39,Python Basics,Programming,43,87.96,10-02-2024
+804,d4487f5d-fca7-4e82-aefe-8793a5054839,Web Development,Web,165,78.52,07-05-2024
+805,11f4097e-0356-44cb-99a1-bcf8429ee75f,Data Science 101,Data Science,108,93.8,04-05-2024
+806,05c8af64-5566-4521-9a71-6f6567cc5670,Data Science 101,Data Science,110,79.94,04-06-2024
+807,859ab622-254a-4222-ae92-d945f2d656c5,Web Development,Web,175,96.38,04-06-2024
+808,2d807965-71da-4ee9-89c8-5585ccdb1b52,Python Basics,Programming,14,59.86,07-05-2024
+809,d40cc5eb-84ba-44d9-9dae-6f336e6e8f26,Web Development,Web,56,77.95,04-04-2024
+810,d069982f-02c8-4b0c-b05f-403c1e5dc751,AI Fundamentals,AI,160,94.53,07-01-2024
+811,ecdb7513-b083-4860-bbb4-c09ecbd06ebb,Web Development,Web,149,95.99,18-01-2024
+812,f50b0653-d3c5-466a-a4bc-2616edb406b6,Python Basics,Programming,172,80.3,27-03-2024
+813,2f3e13b0-701a-4d60-8ff1-f431512070a6,Web Development,Web,169,84.65,16-01-2024
+814,250d1c6b-e0e5-409b-a5f4-55f9dcf75c4a,AI Fundamentals,AI,49,69.98,10-06-2024
+815,f1db58a5-5a2d-414f-8854-ff25f1aea613,AI Fundamentals,AI,6,56.17,16-02-2024
+816,75a2993d-1e7d-4cd2-b381-72dc2a7f3a08,Cloud Computing,Cloud,130,77.64,14-03-2024
+817,45e6f4dd-1732-45b0-bb2e-9d1f2a43cc99,Python Basics,Programming,19,61.15,27-04-2024
+818,6d441a31-65fa-4cd0-84e2-653b35bec8f2,AI Fundamentals,AI,98,94.69,19-03-2024
+819,cc19c0f4-3426-4018-bbd6-4d694550cf68,Cloud Computing,Cloud,166,81.89,25-02-2024
+820,f6dd9ceb-0066-4d26-a162-3586ce753440,Data Science 101,Data Science,84,93.89,12-02-2024
+821,ff525fb9-7690-478f-bc82-71e8a03a7d6e,Cloud Computing,Cloud,171,93.82,22-03-2024
+822,a28f3307-0de5-4972-ac21-fa85950b9a5a,Python Basics,Programming,104,97.55,10-03-2024
+823,264536cb-076c-47b9-9834-db54ed14e7b3,Cloud Computing,Cloud,92,79.59,30-03-2024
+824,f41714b5-496d-4b20-985c-29075430188e,Cloud Computing,Cloud,14,97.47,04-05-2024
+825,ba0ed260-8282-41f4-8c44-dbfcd6698eb0,Python Basics,Programming,147,77.97,13-03-2024
+826,15a3e8a1-b700-401e-82db-21e4226add45,Web Development,Web,142,82.45,03-04-2024
+827,78410d19-5bd3-43fc-994d-2c0f364313de,Python Basics,Programming,108,71.76,12-01-2024
+828,442c72b1-3f7f-41fd-9bab-fb217d277a55,Cloud Computing,Cloud,135,66.62,27-05-2024
+829,28a0cbec-1b64-4751-b058-8e1f99e434ea,Data Science 101,Data Science,14,62.62,30-04-2024
+830,d22972b5-212b-4421-9fd7-338401641c38,Python Basics,Programming,75,78.07,22-03-2024
+831,6dd1e127-b1ba-4b54-a7f2-5a88d9a08df4,Python Basics,Programming,142,90.59,04-06-2024
+832,4e000671-6f49-428f-837b-ecee38afe24d,Python Basics,Programming,173,77.95,25-01-2024
+833,ddac6900-4cbb-4ec9-b7ac-90cb30a93836,Data Science 101,Data Science,140,86.71,09-05-2024
+834,20b90889-8d56-4c52-bb0f-c6956a62ade7,Web Development,Web,95,98.09,19-01-2024
+835,bc9051db-fc37-4525-86b8-aea6716bb852,Cloud Computing,Cloud,48,73.76,14-03-2024
+836,43138ff6-bec2-481d-ad37-e862170b7a0d,Web Development,Web,97,57.23,17-06-2024
+837,7b5b36fd-4c3c-43fc-9737-b822e421b767,Python Basics,Programming,101,67.63,06-04-2024
+838,e30cc33b-e7c7-4d8c-89bb-11d21c9b4d31,Python Basics,Programming,59,61.46,27-02-2024
+839,e8e0dc14-6a80-4aaa-905d-7577eb7d2631,Cloud Computing,Cloud,40,69.35,06-05-2024
+840,48ecdd62-8c0e-4cd9-972e-fa388118f054,Web Development,Web,116,76.09,20-02-2024
+841,edcbd881-e859-465a-98b8-bb518d2ccbc7,Web Development,Web,31,91.49,10-01-2024
+842,c3d85df5-451d-40ac-a155-7cb46c51f319,Data Science 101,Data Science,99,73.82,23-06-2024
+843,c4763e31-e2c5-4931-9c01-9267fb70b5d4,Cloud Computing,Cloud,74,97.58,03-05-2024
+844,71d76447-e8b6-4486-bbb6-1886b762f1b4,AI Fundamentals,AI,65,70.52,07-01-2024
+845,e3436e04-ab9a-4fba-a3de-c16e26f28c3a,Cloud Computing,Cloud,90,79.04,20-05-2024
+846,2efb2018-18a5-4768-afe2-c5ed21874245,Web Development,Web,12,81.47,01-06-2024
+847,2d3bb49c-cdaa-4cd4-a99c-480bd56f3715,AI Fundamentals,AI,162,69.29,24-02-2024
+848,96f400aa-314a-4f37-ac62-75bdccd297dd,Cloud Computing,Cloud,158,74.97,01-04-2024
+849,c641fc60-8f27-4c6e-a9ed-c6807519abe7,AI Fundamentals,AI,125,72.72,09-01-2024
+850,605ed78b-7e25-4c1d-9cf4-9a5c237899e7,Cloud Computing,Cloud,32,65.02,07-01-2024
+851,7c0fd4da-7f59-41d9-81be-921da57a764f,Cloud Computing,Cloud,130,57.32,23-03-2024
+852,e09968cf-65ab-46cc-8976-ab0eb16e417f,Data Science 101,Data Science,146,66.79,02-05-2024
+853,62f426ef-662d-4789-bc3e-5cafcc75da36,Data Science 101,Data Science,105,66.2,29-04-2024
+854,53fa22db-e2a2-4714-bafd-02d6eb599cce,Data Science 101,Data Science,128,64.92,18-01-2024
+855,9fe6b3df-9443-40b5-9d9b-3ee319a770a1,Cloud Computing,Cloud,12,86.75,25-05-2024
+856,65134244-5638-45de-b756-972db0542ee6,Python Basics,Programming,172,95.28,17-03-2024
+857,d817af09-f098-4955-9d36-77474046dde6,Web Development,Web,102,75.24,07-05-2024
+858,4e1bc9f8-0010-447d-9358-1c6d62b2ee24,AI Fundamentals,AI,88,84.08,05-04-2024
+859,c1584652-11d2-47b5-a32b-d9b413203320,Web Development,Web,89,54.2,13-02-2024
+860,a5e499a4-baea-4d6b-828d-c92add995500,Data Science 101,Data Science,111,80.92,09-02-2024
+861,52d5ff1f-1d46-49fe-bdfe-48eda836d249,Python Basics,Programming,59,81.62,16-06-2024
+862,615fc9b2-af7b-49f1-b746-e9ea1aac59ee,Data Science 101,Data Science,158,87.02,27-06-2024
+863,496e31bb-c9bb-4207-ad1c-2fcefc423621,Data Science 101,Data Science,139,60.25,21-02-2024
+864,58bfbf88-e008-4d9d-bf05-892bdf85867c,Cloud Computing,Cloud,50,54.49,10-04-2024
+865,f3f922ab-15df-414d-9c86-a4f0d18f1411,Python Basics,Programming,136,66.61,18-05-2024
+866,d90f1cd0-8875-450c-a881-2136048eaa0b,Python Basics,Programming,133,62.86,15-01-2024
+867,46010e4a-5529-4fc0-9155-895b2ef5744e,Web Development,Web,166,50.33,16-04-2024
+868,e4a30819-fba3-4515-b5ca-f021db97b2fd,Data Science 101,Data Science,56,76.84,19-01-2024
+869,f6dd455b-76f6-49f4-a47c-f048cbfe7343,AI Fundamentals,AI,135,77.85,02-04-2024
+870,f9d248ec-736a-4fd4-a2ad-11e11a4f4173,AI Fundamentals,AI,15,89.04,02-03-2024
+871,aca48004-710b-4d92-ac26-ea9e509b7455,AI Fundamentals,AI,21,63.29,17-05-2024
+872,5ba09389-19ef-45fd-b404-bd6ae7f1635c,Web Development,Web,8,92.85,16-06-2024
+873,e3094684-e2b0-4755-b361-261a29502846,Python Basics,Programming,119,93.65,20-02-2024
+874,ce793536-b822-447b-8de6-275b6af9c0e6,Data Science 101,Data Science,152,88.22,11-06-2024
+875,d94e5c62-e5b0-4765-821d-0deffbfe6b0a,Cloud Computing,Cloud,169,69.52,27-06-2024
+876,6f4185df-0702-4cab-9821-e8b5679d3316,Python Basics,Programming,156,52.11,06-01-2024
+877,fd774322-7f02-479a-89e5-822a56ea548d,Web Development,Web,116,97.49,30-04-2024
+878,6efa3931-7ae3-4b2a-906b-d21df6dbbbba,AI Fundamentals,AI,95,96.38,25-04-2024
+879,463ca4c7-2ea6-4a57-9a3a-d2ddae69b920,Data Science 101,Data Science,161,60.31,20-02-2024
+880,37814b10-8eba-41ea-bf73-b975805f50fa,Data Science 101,Data Science,124,54.05,10-04-2024
+881,27bc90ba-475d-4be0-8978-f9d160bcc7ce,AI Fundamentals,AI,28,80.58,11-03-2024
+882,e3891134-6921-48a6-b225-8502ed1c3c0e,AI Fundamentals,AI,137,82.85,30-04-2024
+883,4124c5db-d1e7-4907-9962-1d7fc2463c25,AI Fundamentals,AI,118,67.98,23-05-2024
+884,fc9c1cf9-af53-40f8-9b9b-c9ca74321048,Data Science 101,Data Science,122,93.58,18-06-2024
+885,f9ee9408-56fe-453d-b44c-9675a6e4a10f,Python Basics,Programming,27,56.93,12-02-2024
+886,908cb2b6-2b7e-4262-a300-01f19b9ddee3,Web Development,Web,115,50.18,25-01-2024
+887,2954a677-61f1-45be-bb23-43e72b159f6d,Data Science 101,Data Science,121,97.89,08-01-2024
+888,2c5f365d-cd0f-4c9d-ad6a-a75030d81949,Data Science 101,Data Science,67,59.85,29-05-2024
+889,b7bcac03-8d98-45ae-86ac-277b9dc00c55,Web Development,Web,145,67.65,15-04-2024
+890,f9f72371-c14f-4cd6-8ae7-e2076d40e68a,Data Science 101,Data Science,28,92.4,06-03-2024
+891,65b2ae9c-ef2d-4045-b7ea-dbd60b57b995,Data Science 101,Data Science,125,59.5,08-04-2024
+892,57e5c5a5-b232-4da3-bdde-441df67e1deb,Cloud Computing,Cloud,33,72.98,08-06-2024
+893,5292c256-e48d-4313-b6ca-9b3cbc447b6e,AI Fundamentals,AI,105,99.61,11-03-2024
+894,111b9226-c24b-4767-b67c-cc2e031f2b17,Python Basics,Programming,64,83.34,01-05-2024
+895,b6135e96-68dc-4598-84a6-7ad2bf6724f7,Cloud Computing,Cloud,16,56.36,05-01-2024
+896,70747dc0-458d-425a-a907-a3bc707ecefc,Data Science 101,Data Science,161,79.48,06-03-2024
+897,9034d783-5614-4737-9c48-ae6380630250,Cloud Computing,Cloud,108,59.26,23-03-2024
+898,56ec52e8-f4a0-45eb-a326-9beea25ccf81,Web Development,Web,118,76.13,02-02-2024
+899,c8df7d08-155b-4023-8cbe-b8fd61a35c52,Web Development,Web,14,94.26,15-06-2024
+900,bf12f020-3def-4b25-8049-9eea6f473feb,Cloud Computing,Cloud,163,76.52,04-02-2024
+901,b054f902-32c4-4dd1-a025-e647472cf237,Web Development,Web,111,53.73,04-06-2024
+902,2dee0af5-38e7-4a79-ac9c-ed8d433c9d69,Web Development,Web,134,99.78,28-02-2024
+903,354930e9-c6de-4ee6-8153-744665f42330,Web Development,Web,151,80.83,29-02-2024
+904,879bb83d-beaf-4b73-9dc3-d7fa70829269,AI Fundamentals,AI,162,78.6,25-01-2024
+905,1375a0fb-41f6-4ed4-acae-a6c288a01ddc,Web Development,Web,81,87.45,24-05-2024
+906,2f8ccf1d-3bd8-4ff1-aabe-37af93730ccc,AI Fundamentals,AI,20,67.81,15-06-2024
+907,b5d057fe-832b-4634-99fc-506e5cd6587f,Cloud Computing,Cloud,155,95.63,13-01-2024
+908,1f0a1020-a9f6-48c3-951c-ea19c6196692,Web Development,Web,45,56.3,10-01-2024
+909,9d893219-a80c-4d57-8e38-d6d3b597f6b0,AI Fundamentals,AI,142,55.11,15-01-2024
+910,16f37401-d077-4024-bcdb-e43144d1c8b2,Cloud Computing,Cloud,177,79.34,21-04-2024
+911,118e17ea-0161-47cc-9b32-1b83c99b244c,Data Science 101,Data Science,139,54.61,01-04-2024
+912,12ee24e4-5e80-4573-8b28-57f153852fe6,Data Science 101,Data Science,128,95.25,18-03-2024
+913,df28d5fc-5503-4455-885c-ffa95b5ed774,AI Fundamentals,AI,172,64.91,26-05-2024
+914,d3c7df1d-0e0e-4346-ad4e-5747c895477e,AI Fundamentals,AI,40,58.75,14-03-2024
+915,a331dc85-fa82-49c1-9354-02ce31777251,Cloud Computing,Cloud,31,62.63,07-05-2024
+916,d60fbaf1-fec9-4a15-b4f0-13cf02fec931,Data Science 101,Data Science,154,89.68,19-05-2024
+917,5a6797ba-ca7a-42a8-b111-2738002aa06e,Data Science 101,Data Science,13,91.35,10-03-2024
+918,ee41025d-49fc-4dbf-9639-3155258a4b53,Python Basics,Programming,35,77.34,04-03-2024
+919,e67dc926-6a0f-46a2-9298-ca4da9c89895,Web Development,Web,172,89.56,23-06-2024
+920,e67db252-1d28-4ec0-8f8b-f64b4651b1ef,AI Fundamentals,AI,127,84.38,02-03-2024
+921,1f3c50e8-0f44-4014-bd9c-296425e85ee6,AI Fundamentals,AI,177,95.77,01-02-2024
+922,c2c57698-0d23-406d-9d72-937a2e9a150c,Data Science 101,Data Science,170,90.07,26-03-2024
+923,3faa19b9-8043-4a85-97d5-bf2bbc77becf,Python Basics,Programming,128,91.83,08-06-2024
+924,e7d8fa2d-097d-48df-9aba-edfcea1ec9ba,AI Fundamentals,AI,35,70.17,21-02-2024
+925,fb1cb69b-bb9a-42be-b2e6-bb1dd89f8345,Cloud Computing,Cloud,15,82.67,03-01-2024
+926,d25b4be2-f009-4c20-9c10-223e8201a16d,Web Development,Web,72,61.01,05-03-2024
+927,ad00fcf2-07b9-46ec-bebb-216ca1d83209,Python Basics,Programming,150,69.92,19-02-2024
+928,e3becfaf-aa5c-469a-a825-3262813c331d,Data Science 101,Data Science,83,58.46,25-06-2024
+929,62570718-909b-42dd-81d3-eeb972767d82,Data Science 101,Data Science,127,62.02,18-04-2024
+930,7dff9a33-4f21-485c-ab90-b98dc0646684,Web Development,Web,99,93.03,04-04-2024
+931,327427ff-a1d2-440b-8bb4-d3bb033b61b1,Web Development,Web,116,98.43,10-05-2024
+932,d640a09d-f57e-4bcc-ab7c-89cee8195f43,Python Basics,Programming,72,54.27,09-01-2024
+933,4b83b08f-ea25-4d66-ad3d-063e615b741f,Cloud Computing,Cloud,65,52.89,25-01-2024
+934,68ac1447-67e4-42e8-b455-81617ea49875,Cloud Computing,Cloud,124,94.18,30-05-2024
+935,25c9e6f4-aa6f-4b98-b3d6-f69132df8f6d,AI Fundamentals,AI,158,57.89,05-03-2024
+936,afa127e8-b8e7-4d30-9dd9-def7525a924c,Web Development,Web,75,58.33,08-03-2024
+937,6c9b4990-fdcf-4957-a7f5-8cc8447d0969,Data Science 101,Data Science,178,86.06,27-01-2024
+938,8237e10c-3d15-4923-8bdd-2891950cb00a,Data Science 101,Data Science,110,78.61,19-05-2024
+939,4135b0ce-7335-44a6-9ef6-e384fa732045,Python Basics,Programming,11,88.14,06-02-2024
+940,2725e1a9-d95c-44c0-ad0d-11ba25fe9981,Web Development,Web,71,77.59,01-05-2024
+941,a936e6aa-b2c7-46d8-ba6c-7540c158c6be,Python Basics,Programming,74,54.77,21-02-2024
+942,46aae159-c05a-45df-857b-e702208738db,Cloud Computing,Cloud,148,85.54,02-01-2024
+943,c1fb3a4c-0d35-4071-a1ea-413d1d212f19,AI Fundamentals,AI,117,72.4,01-06-2024
+944,21a2c523-9894-43e2-b7fb-ffbbe0add07d,Python Basics,Programming,63,95.2,05-06-2024
+945,154fb9b8-7a06-43f8-bd85-dbb6e5597099,Python Basics,Programming,49,94.69,22-04-2024
+946,edc12bd7-e365-4bef-8aba-15dc11e5ad79,Python Basics,Programming,35,57.77,05-01-2024
+947,ad2e9cab-44b3-4ab3-a311-3b1b5f083bbb,Cloud Computing,Cloud,92,55.44,08-04-2024
+948,d3cf21cf-24c0-4419-b6aa-4195b82a4728,Cloud Computing,Cloud,161,57.73,08-01-2024
+949,ab7005aa-2253-4a8f-979b-9b07b1186da5,Python Basics,Programming,58,75.09,25-03-2024
+950,000e2b4d-4468-4fc9-ae53-bb03e617e038,Python Basics,Programming,94,98.18,01-03-2024
+951,50050784-606d-42c0-a12f-0c3e858f2c72,Python Basics,Programming,158,66.53,28-03-2024
+952,f17c7718-0b59-49df-8679-f31c0545be3c,Data Science 101,Data Science,57,83.38,29-05-2024
+953,784bff8b-d4df-4285-afd4-1cc1e697ba4a,Python Basics,Programming,163,95.91,25-01-2024
+954,b7f3f08f-996c-42af-9ced-5f3450318efb,Data Science 101,Data Science,138,90.13,15-01-2024
+955,f09e0a73-05b3-48e0-a932-7f2ba603a00c,Data Science 101,Data Science,175,79.83,12-01-2024
+956,369028a2-710f-448b-b57c-b0bfa089f959,Python Basics,Programming,54,53.33,11-05-2024
+957,74ca8b01-97c8-44c7-a572-9bee062be930,Python Basics,Programming,145,83.49,05-03-2024
+958,10fc6b60-a469-468a-8663-b8c7d51b0dfa,Cloud Computing,Cloud,106,87.72,04-04-2024
+959,436ac62b-7e3b-44be-a6ec-f79957751721,Data Science 101,Data Science,29,69.46,17-03-2024
+960,4fde4f0b-2bb9-46fb-9675-52d929873965,Web Development,Web,23,60.51,17-02-2024
+961,cd3c6bba-81a4-4aba-9356-42cb2e053a43,AI Fundamentals,AI,146,62.46,05-06-2024
+962,ee863a89-0cf6-4590-8556-668991a0713d,Cloud Computing,Cloud,113,61.99,20-05-2024
+963,6b38d8b6-c5e0-4f24-94fb-65811b6f42eb,Data Science 101,Data Science,31,94.45,25-05-2024
+964,4f34d68e-c386-4760-9a84-d999b9f2c31f,Web Development,Web,142,58.08,01-01-2024
+965,a5f0234a-8d93-41bb-9d46-2ad49ac2148b,Data Science 101,Data Science,38,95.64,19-01-2024
+966,55ed0653-101d-4f6f-a990-d0260f42a511,Python Basics,Programming,122,72.58,10-02-2024
+967,f4b0b462-5b8a-4c44-9e86-69b8396faea5,Python Basics,Programming,62,69.76,14-03-2024
+968,c6e3d401-c49d-4b66-8460-d6488c7a5d8d,AI Fundamentals,AI,127,51.27,22-06-2024
+969,af7df74e-8cae-428b-8264-3b79a35e2a03,Web Development,Web,22,73.42,27-03-2024
+970,8373d1f2-2bae-4a49-91b4-ace07e1a1833,Cloud Computing,Cloud,97,61.91,28-05-2024
+971,153a3380-0149-485e-b4ae-22450b5a5c5a,Data Science 101,Data Science,144,62.69,28-05-2024
+972,967f2f55-adc2-4d1a-a620-d7460c147a49,Cloud Computing,Cloud,147,98.2,14-02-2024
+973,fa60b972-0b75-467d-bcdd-57aeca6dfdcb,Cloud Computing,Cloud,94,86.56,27-06-2024
+974,4115306a-ed52-478e-8b4e-31b255a834d7,Cloud Computing,Cloud,150,54.56,07-05-2024
+975,de488692-1296-4d58-bb51-9bdc137f5cca,Data Science 101,Data Science,129,54.88,05-01-2024
+976,2cd4d9fe-57a1-45b6-bd4c-bd64fa49665f,Cloud Computing,Cloud,141,83.22,18-02-2024
+977,bf5c368e-1a55-442e-ba2a-22d55f60ed15,Data Science 101,Data Science,121,86.53,14-04-2024
+978,565758c4-b8c8-4dc7-a05b-735fa69dbe22,Data Science 101,Data Science,154,51.59,18-05-2024
+979,271dfe54-a0a9-452e-b75a-f80b2c46b5db,Cloud Computing,Cloud,142,71.22,08-01-2024
+980,7f4079f8-fd17-41ce-b30c-036245fdc029,Python Basics,Programming,108,87.68,02-04-2024
+981,0ce85c3e-c69a-4185-bca9-d800ef8bbd86,Cloud Computing,Cloud,112,73.11,10-05-2024
+982,87eb3eb0-2fc0-4041-8a7d-1da8d3d09a30,Web Development,Web,17,96.37,19-03-2024
+983,65d6f484-d963-40e8-88cf-cddc2fb986fa,Data Science 101,Data Science,71,62.78,17-06-2024
+984,323dc71d-5be5-495f-9afc-a62c8b2b5f64,Python Basics,Programming,57,88.47,02-04-2024
+985,50419636-e178-4bb5-95ce-c1bae33941e1,Cloud Computing,Cloud,8,87.82,09-02-2024
+986,54ab7b79-2699-4dbd-9eec-d7b519a46edc,Data Science 101,Data Science,139,83.24,02-01-2024
+987,750046c5-f0e6-45d5-b410-898d866b1b00,AI Fundamentals,AI,105,81.85,06-03-2024
+988,bb40d49b-6f58-460c-88ee-dae367b70aa3,AI Fundamentals,AI,87,86.56,01-05-2024
+989,239742d3-27d4-4b0d-9c77-fbf4201778cd,Python Basics,Programming,121,62.93,23-03-2024
+990,e726b958-cbb6-4911-a4c2-85d512d23d27,AI Fundamentals,AI,24,57.54,12-03-2024
+991,e7368179-8a04-4b1b-b6f2-26f0a3b46654,Data Science 101,Data Science,42,71.87,19-05-2024
+992,2e3973a3-1d31-4e9a-a610-1f588b339db6,Cloud Computing,Cloud,165,93.4,30-04-2024
+993,5fff8f42-3449-488e-8f9d-b457d11ebfb8,Data Science 101,Data Science,33,61.72,24-02-2024
+994,d55ec2a0-b813-4d4e-9e99-befce0028ca2,Python Basics,Programming,177,65.27,06-03-2024
+995,ac835970-43e1-4e26-912d-62a8b0742b82,Web Development,Web,139,70.34,22-02-2024
+996,e863ffa0-72f2-4a9a-96fc-76b90b200081,Python Basics,Programming,163,61.11,10-06-2024
+997,85c4d796-598b-4672-a14b-e5e3eb2e3b4d,Python Basics,Programming,10,77.43,28-04-2024
+998,a9151f3b-5d07-48ae-a801-785c0d691ff8,Python Basics,Programming,79,71.49,11-03-2024
+999,0a235def-d312-4aa1-9600-98893395a483,Web Development,Web,49,72.77,23-06-2024
+1000,970deed6-77ce-4758-9433-6cec467eae64,AI Fundamentals,AI,63,85.96,29-05-2024
