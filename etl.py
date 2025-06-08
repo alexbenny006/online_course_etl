@@ -9,6 +9,8 @@ def run_etl(file_path: str):
 
     create_tables()
 
+    cur.execute(""" TRUNCATE TABLE engagement """)
+
     with open(file_path, newline='', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
