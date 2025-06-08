@@ -21,12 +21,14 @@ def get_connection():
 def create_tables():
     conn = get_connection()
     cursor = conn.cursor()
+
+    cursor.execute('DROP TABLE engagement')
+
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS engagement (
             id SERIAL PRIMARY KEY,
             user_id TEXT NOT NULL,
             course_name TEXT NOT NULL,
-            category TEXT NOT NULL,
             minutes_watched INTEGER NOT NULL,
             quiz_score REAL NOT NULL,
             date DATE NOT NULL
